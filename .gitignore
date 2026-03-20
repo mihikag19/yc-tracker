@@ -1,5 +1,7 @@
+
+
 node_modules/
 .env
 seen_companies.json
 tracker.log 
-
+.DS_Store
