@@ -27,6 +27,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
       - name: Save snapshot
+        if: always()
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
