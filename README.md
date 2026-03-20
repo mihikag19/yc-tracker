@@ -1,6 +1,8 @@
 # YC Startup Tracker
 
-I kept discovering YC companies randomly on LinkedIn and wanted a better way to stay on top of what's being built. This script polls the YC directory daily, detects new companies, summarizes them with Claude, and emails me a clean digest every morning. No algorithm, no noise, just signal.
+I was constantly discovering YC startups by accident, through LinkedIn posts, retweets, and random rabbit holes.
+There was no single place to just see what’s new, cleanly.
+So I built one: a daily email with only new YC companies, no noise, no algorithm.This script polls the YC directory daily, detects new companies, summarizes them with Claude, and emails me a clean digest every morning. No algorithm, no noise, just signal.
 
 ## What you get in each email
 
