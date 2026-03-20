@@ -1,0 +1,17 @@
+{
+  "name": "yc-tracker",
+  "version": "2.0.0",
+  "description": "Get emailed whenever new YC startups appear, with AI summaries and founder info.",
+  "type": "module",
+  "main": "tracker.js",
+  "scripts": {
+    "start": "node -r dotenv/config tracker.js",
+    "dry-run": "node -r dotenv/config tracker.js --dry-run",
+    "force": "node -r dotenv/config tracker.js --force",
+    "test-email": "node -r dotenv/config tracker.js --force --dry-run"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodemailer": "^8.0.3"
+  }
+}
