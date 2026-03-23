@@ -43,7 +43,27 @@ const CONFIG = {
   retryDelayMs:    1200,  // base delay between retries (multiplied by attempt #)
 };
 
-// Tags/spaces that earn a 🔥 badge in the email
+// Parse YC batch string (e.g. "Winter 2025", "S24") into a sortable number
+function batchScore(b) {
+  if (!b) return 0;
+  // "Winter 2025" / "Summer 2024" / "Fall 2023" format
+  const long = b.match(/^(Winter|Summer|Fall)\s+(\d{4})$/i);
+  if (long) {
+    const year = parseInt(long[2], 10);
+    const season = long[1][0].toUpperCase() === "W" ? 1 : long[1][0].toUpperCase() === "S" ? 2 : 3;
+    return year * 10 + season;
+  }
+  // "W25" / "S24" short format
+  const short = b.match(/^([SWF])(\d{2,4})$/i);
+  if (short) {
+    const year = parseInt(short[2].length === 2 ? `20${short[2]}` : short[2], 10);
+    const season = short[1].toUpperCase() === "W" ? 1 : short[1].toUpperCase() === "S" ? 2 : 3;
+    return year * 10 + season;
+  }
+  return 0;
+}
+
+// Tags/spaces that earn a hot badge in the email
 const HOT_SPACES = new Set([
   "ai", "artificial intelligence", "machine learning", "ml",
   "healthcare", "health", "biotech", "climate", "developer tools",
@@ -245,61 +265,62 @@ function isNotableFounder(f) {
 function buildFounderPill(f) {
   const name    = [f.first_name, f.last_name].filter(Boolean).join(" ");
   const notable = isNotableFounder(f);
-  const label   = notable ? `⭐ ${name}` : name;
+  const label   = notable ? `${name} *` : name;
   const inner   = f.linkedin_url
     ? `<a href="${f.linkedin_url}" style="color:inherit;text-decoration:none;">${label}</a>`
     : label;
-  return `<span style="display:inline-block;background:${notable ? "#1c1a0f" : "#1a1a1a"};border:1px solid ${notable ? "#3a3010" : "#2a2a2a"};border-radius:3px;padding:2px 8px;font-size:11px;color:${notable ? "#d4b44a" : "#aaa"};margin:2px 4px 2px 0;font-family:'Courier New',monospace;">${inner}</span>`;
+  return `<span style="display:inline-block;background:${notable ? "#fff7ed" : "#f6f6f6"};border:1px solid ${notable ? "#f26522" : "#e2e2e2"};border-radius:20px;padding:4px 12px;font-size:12px;color:${notable ? "#c2410c" : "#3c3c3c"};margin:2px 4px 2px 0;font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;">${inner}</span>`;
 }
 
 function buildCard(c) {
   const hot      = isHotSpace(c);
   const batch    = c.batch || "Unknown batch";
-  const tags     = (c.tags || []).slice(0, 3).join(" · ");
-  const hotBadge = hot ? ` <span style="font-size:10px;">🔥</span>` : "";
+  const tags     = (c.tags || []).slice(0, 3);
+  const hotBadge = hot ? `<span style="display:inline-block;background:#fff7ed;border:1px solid #fed7aa;border-radius:20px;padding:2px 8px;font-size:10px;color:#c2410c;margin-left:8px;font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:500;">Hot Space</span>` : "";
+
+  const tagPills = tags.map(t =>
+    `<span style="display:inline-block;background:#f6f6f6;border-radius:20px;padding:2px 10px;font-size:11px;color:#6b6b6b;margin:2px 4px 2px 0;font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;">${t}</span>`
+  ).join("");
 
   const website  = c.website
-    ? `<a href="${c.website}" style="color:#f26522;text-decoration:none;font-size:11px;">${c.website.replace(/^https?:\/\//, "").replace(/\/$/, "")}</a>`
+    ? `<a href="${c.website}" style="color:#f26522;text-decoration:none;font-size:13px;font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:500;">${c.website.replace(/^https?:\/\//, "").replace(/\/$/, "")}</a>`
     : "";
-  const ycLink   = `<a href="${c.url}" style="color:#555;text-decoration:none;font-size:11px;">YC profile →</a>`;
+  const ycLink   = `<a href="${c.url}" style="color:#6b6b6b;text-decoration:none;font-size:13px;font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;">YC Profile</a>`;
 
   const founderPills = c.founders?.length
     ? c.founders.map(buildFounderPill).join("")
     : "";
 
-  // Fallback chain: AI summary → long_description (truncated) → one_liner → generic
   const summaryText = c.summary
-    || (c.detail?.long_description ? c.detail.long_description.slice(0, 280) + "…" : null)
+    || (c.detail?.long_description ? c.detail.long_description.slice(0, 280) + "..." : null)
     || c.one_liner
     || "No description available.";
-  const summaryLabel = c.summary ? "AI Summary" : "Description";
+  const summaryLabel = c.summary ? "AI SUMMARY" : "DESCRIPTION";
 
   return `
-<div style="border:1px solid #1e1e1e;border-radius:6px;margin-bottom:20px;overflow:hidden;background:#0f0f0f;">
+<div style="border:1px solid #e5e5e5;border-radius:8px;margin-bottom:16px;overflow:hidden;background:#ffffff;">
 
-  <div style="padding:14px 16px 10px;border-bottom:1px solid #1a1a1a;">
-    <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px;align-items:flex-start;">
-      <div>
-        <span style="font-family:'Courier New',monospace;font-size:16px;font-weight:700;color:#f5f5f5;">${c.name}</span>${hotBadge}
-        <span style="font-size:11px;color:#444;margin-left:10px;font-family:'Courier New',monospace;">${batch}</span>
-      </div>
-      <div style="font-size:10px;color:#444;font-family:'Courier New',monospace;">${tags}</div>
+  <div style="padding:20px 24px 16px;">
+    <div>
+      <span style="font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:18px;font-weight:600;color:#0a0a0a;">${c.name}</span>${hotBadge}
+      <span style="font-size:12px;color:#9a9a9a;margin-left:10px;font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:400;">${batch}</span>
     </div>
-    <div style="font-size:12px;color:#666;font-family:Georgia,serif;margin-top:5px;font-style:italic;">${c.one_liner || ""}</div>
+    <div style="font-size:14px;color:#6b6b6b;font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;margin-top:6px;line-height:1.5;">${c.one_liner || ""}</div>
+    ${tagPills ? `<div style="margin-top:10px;">${tagPills}</div>` : ""}
   </div>
 
-  <div style="padding:12px 16px;border-bottom:1px solid #1a1a1a;">
-    <div style="font-size:10px;letter-spacing:2px;color:#f26522;font-family:'Courier New',monospace;text-transform:uppercase;margin-bottom:6px;">${summaryLabel}</div>
-    <div style="font-size:13px;color:#ccc;font-family:Georgia,serif;line-height:1.7;">${summaryText}</div>
+  <div style="padding:0 24px 16px;">
+    <div style="font-size:11px;letter-spacing:1.5px;color:#f26522;font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;text-transform:uppercase;font-weight:600;margin-bottom:8px;">${summaryLabel}</div>
+    <div style="font-size:14px;color:#3c3c3c;font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;line-height:1.7;">${summaryText}</div>
   </div>
 
   ${founderPills ? `
-  <div style="padding:10px 16px;border-bottom:1px solid #1a1a1a;">
-    <div style="font-size:10px;letter-spacing:2px;color:#f26522;font-family:'Courier New',monospace;text-transform:uppercase;margin-bottom:6px;">Founders</div>
+  <div style="padding:0 24px 16px;">
+    <div style="font-size:11px;letter-spacing:1.5px;color:#f26522;font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;text-transform:uppercase;font-weight:600;margin-bottom:8px;">FOUNDERS</div>
     <div>${founderPills}</div>
   </div>` : ""}
 
-  <div style="padding:10px 16px;display:flex;gap:16px;align-items:center;">
+  <div style="padding:12px 24px 16px;border-top:1px solid #f0f0f0;display:flex;gap:20px;align-items:center;">
     ${website}
     ${ycLink}
   </div>
@@ -307,7 +328,7 @@ function buildCard(c) {
 </div>`;
 }
 
-function buildEmailHTML(companies, snapshot) {
+function buildEmailHTML(companies, snapshot, isDigest = false) {
   const today   = new Date().toLocaleDateString("en-US", {
     weekday: "long", year: "numeric", month: "long", day: "numeric",
   });
@@ -316,35 +337,40 @@ function buildEmailHTML(companies, snapshot) {
     : "First notification";
   const hotCount = companies.filter(isHotSpace).length;
   const hotLine  = hotCount > 0
-    ? `<span style="color:#f26522;">${hotCount} in hot spaces 🔥</span>&nbsp;&nbsp;·&nbsp;&nbsp;`
+    ? `<span style="color:#f26522;font-weight:600;">${hotCount} in hot spaces</span>&nbsp;&nbsp;&middot;&nbsp;&nbsp;`
     : "";
 
   return `
 <!DOCTYPE html>
 <html>
-<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
-<body style="margin:0;padding:0;background:#0a0a0a;">
-<div style="max-width:680px;margin:0 auto;padding:32px 16px 40px;">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body style="margin:0;padding:0;background:#f7f7f7;">
+<div style="max-width:640px;margin:0 auto;padding:40px 16px 48px;">
 
-  <div style="border-left:3px solid #f26522;padding-left:16px;margin-bottom:8px;">
-    <div style="font-family:'Courier New',monospace;font-size:10px;letter-spacing:3px;color:#f26522;text-transform:uppercase;margin-bottom:8px;">YC Tracker · ${today}</div>
-    <div style="font-family:Georgia,serif;font-size:26px;color:#f5f5f5;font-weight:400;line-height:1.2;">
-      ${companies.length} new startup${companies.length !== 1 ? "s" : ""} just landed on YC
+  <div style="margin-bottom:32px;">
+    <div style="font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:11px;letter-spacing:2px;color:#f26522;text-transform:uppercase;font-weight:600;margin-bottom:12px;">YC Tracker &middot; ${today}</div>
+    <div style="font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:28px;color:#0a0a0a;font-weight:700;line-height:1.3;">
+      ${isDigest
+        ? `${companies.length} recent startup${companies.length !== 1 ? "s" : ""} worth watching`
+        : `${companies.length} new startup${companies.length !== 1 ? "s" : ""} just landed on YC`}
+    </div>
+    <div style="font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:13px;color:#9a9a9a;margin-top:8px;">
+      ${hotLine}${lastRun}
     </div>
   </div>
 
-  <div style="font-family:'Courier New',monospace;font-size:11px;color:#444;margin-bottom:28px;padding-left:19px;">
-    ${hotLine}${lastRun}
-  </div>
+  <div style="height:2px;background:linear-gradient(to right,#f26522,#fed7aa);border-radius:2px;margin-bottom:28px;"></div>
 
   ${companies.map(buildCard).join("")}
 
-  <div style="margin-top:8px;padding:12px 16px;background:#0d0d0d;border:1px solid #1a1a1a;border-radius:4px;font-family:'Courier New',monospace;font-size:10px;color:#333;line-height:1.9;">
-    🔥 = AI / Healthcare / Climate / DevTools &nbsp;·&nbsp; ⭐ = Notable founder background (ex-FAANG, top research lab, or top university)
+  <div style="margin-top:12px;padding:16px 20px;background:#ffffff;border:1px solid #e5e5e5;border-radius:8px;font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;color:#9a9a9a;line-height:2;">
+    <span style="color:#f26522;font-weight:600;">Hot Space</span> = AI / Healthcare / Climate / DevTools&nbsp;&nbsp;&middot;&nbsp;&nbsp;<span style="font-weight:500;">*</span> = Notable founder (ex-FAANG, top research lab, or top university)
   </div>
 
-  <div style="margin-top:20px;font-family:'Courier New',monospace;font-size:10px;color:#222;text-align:center;letter-spacing:1px;">
-    DATA · yc-oss.github.io/api &nbsp;·&nbsp; SUMMARIES · claude haiku &nbsp;·&nbsp; UPDATES DAILY
+  <div style="margin-top:24px;font-family:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:11px;color:#c0c0c0;text-align:center;letter-spacing:0.5px;">
+    Data from yc-oss.github.io/api&nbsp;&nbsp;&middot;&nbsp;&nbsp;Summaries by Claude&nbsp;&nbsp;&middot;&nbsp;&nbsp;Updates daily
   </div>
 
 </div>
@@ -371,17 +397,25 @@ function printDryRun(companies) {
 }
 
 // ─── EMAIL SEND ───────────────────────────────────────────────────────────────
-async function sendEmail(companies, snapshot) {
+async function sendEmail(companies, snapshot, isDigest = false) {
   const { user, appPassword } = CONFIG.gmail;
   if (!user || !appPassword) {
     throw new Error("Missing Gmail credentials. Set GMAIL_USER and GMAIL_APP_PASSWORD in .env.");
   }
   const transporter = nodemailer.createTransport({ service: "gmail", auth: { user, pass: appPassword } });
+  const plainText = companies.map(c => {
+    const names = c.founders?.map(f => [f.first_name, f.last_name].filter(Boolean).join(" ")).join(", ") || "(unknown)";
+    return `${c.name} [${c.batch || "?"}]\n${c.one_liner || ""}\n${c.summary || ""}\nFounders: ${names}\n${c.website || ""}`;
+  }).join("\n\n");
+
   await transporter.sendMail({
     from:    `"YC Tracker" <${user}>`,
     to:      CONFIG.recipient,
-    subject: `🚀 ${companies.length} new YC startup${companies.length !== 1 ? "s" : ""} — ${new Date().toLocaleDateString()}`,
-    html:    buildEmailHTML(companies, snapshot),
+    subject: isDigest
+      ? `YC Digest - ${companies.length} recent startup${companies.length !== 1 ? "s" : ""} - ${new Date().toLocaleDateString()}`
+      : `${companies.length} new YC startup${companies.length !== 1 ? "s" : ""} - ${new Date().toLocaleDateString()}`,
+    text:    plainText,
+    html:    buildEmailHTML(companies, snapshot, isDigest),
   });
   log.ok(`Email sent to ${CONFIG.recipient} (${companies.length} companies).`);
 }
@@ -403,10 +437,14 @@ async function main() {
   const isFirstRun = Object.keys(snapshot.slugs).length === 0;
   const now        = new Date().toISOString();
 
+  // Sort all companies by batch (newest first) for picking recents
+  const byRecency = [...companies].sort((a, b) => batchScore(b.batch) - batchScore(a.batch));
+
   // Diff
-  const newCompanies = FORCE
-    ? companies.slice(0, 5) // --force: use last 5 companies as a test payload
-    : companies.filter((c) => !snapshot.slugs[c.slug || c.name]);
+  const trulyNew = companies.filter((c) => !snapshot.slugs[c.slug || c.name]);
+  const newCompanies = trulyNew.length > 0
+    ? trulyNew
+    : byRecency.slice(0, 5); // no new ones — pick 5 most recent as a digest
 
   // Update snapshot before sending — so a mail failure won't cause double-sends
   const updatedSlugs = { ...snapshot.slugs };
@@ -424,10 +462,8 @@ async function main() {
     return;
   }
 
-  if (newCompanies.length === 0 && !FORCE) {
-    log.info("No new companies since last check.");
-    return;
-  }
+  const isDigest = trulyNew.length === 0;
+  if (isDigest) log.info("No new companies — sending digest of recent startups.");
 
   // Enrich
   log.info(`Enriching ${Math.min(newCompanies.length, CONFIG.maxEnrich)} companies...`);
@@ -439,7 +475,7 @@ async function main() {
   if (DRY_RUN) {
     printDryRun(enriched);
   } else {
-    await sendEmail(enriched, snapshot);
+    await sendEmail(enriched, snapshot, isDigest);
   }
 }
 
