@@ -22759,7 +22759,1275 @@
     "martini": {
       "firstSeen": "2026-03-20T00:53:34.803Z",
       "batch": "Winter 2026"
+    },
+    "zerocater": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2011"
+    },
+    "picnicai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2014"
+    },
+    "fastjvm": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2017"
+    },
+    "candidately": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2017"
+    },
+    "weekend-fmr-volley": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2018"
+    },
+    "askmyclass-now-soundkins": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2018"
+    },
+    "lemonbox": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2018"
+    },
+    "well-principled": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2019"
+    },
+    "flo": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2019"
+    },
+    "flik": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2020"
+    },
+    "operatorio": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2020"
+    },
+    "kinter": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2020"
+    },
+    "taofi": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2021"
+    },
+    "waydev-ai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2021"
+    },
+    "arq": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2021"
+    },
+    "mederva": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2022"
+    },
+    "moots": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2022"
+    },
+    "agentrouter": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2022"
+    },
+    "gym-class": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2022"
+    },
+    "rownd": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2022"
+    },
+    "iron-leap": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2022"
+    },
+    "supersend": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2022"
+    },
+    "codecanary": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2022"
+    },
+    "roxels": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2022"
+    },
+    "withida": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2022"
+    },
+    "alphawatch-ai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2023"
+    },
+    "anythingllm": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2022"
+    },
+    "quinn": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2022"
+    },
+    "sanifu": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2022"
+    },
+    "clearline": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2022"
+    },
+    "express-building": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2022"
+    },
+    "flatx": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2022"
+    },
+    "zudowork": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2023"
+    },
+    "gooseworks": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2023"
+    },
+    "polotab": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2023"
+    },
+    "no-cap": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2023"
+    },
+    "kv-cash": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2023"
+    },
+    "david": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2023"
+    },
+    "onshore": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2023"
+    },
+    "helios": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2023"
+    },
+    "atmeto": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2023"
+    },
+    "lightski": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2023"
+    },
+    "lio": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2023"
+    },
+    "baud-labs": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2023"
+    },
+    "margin": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2023"
+    },
+    "rocketeer": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2023"
+    },
+    "numen": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2023"
+    },
+    "bretton-ai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2023"
+    },
+    "midrender": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2023"
+    },
+    "rimward": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2023"
+    },
+    "opensteer": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2023"
+    },
+    "cembla": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2023"
+    },
+    "letterbook": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2023"
+    },
+    "cora": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2024"
+    },
+    "saga-ai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2024"
+    },
+    "pretzel-ai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2024"
+    },
+    "keystroke": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2024"
+    },
+    "wavelength": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2024"
+    },
+    "averyiq": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2024"
+    },
+    "respan": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2024"
+    },
+    "polished": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2024"
+    },
+    "nanocorp": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2024"
+    },
+    "pazi": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2024"
+    },
+    "sevnai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2024"
+    },
+    "opencall": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2024"
+    },
+    "floatingpoint": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2024"
+    },
+    "diana": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2024"
+    },
+    "latted": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2024"
+    },
+    "d_model": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2024"
+    },
+    "sharpe": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2024"
+    },
+    "haystackeditor": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2024"
+    },
+    "bluedoor": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2024"
+    },
+    "orca-launcher": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2024"
+    },
+    "riveter": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Fall 2024"
+    },
+    "endstack": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Fall 2024"
+    },
+    "beglaubigtde": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Fall 2024"
+    },
+    "kilvin": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Fall 2024"
+    },
+    "struct-ai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Fall 2024"
+    },
+    "outship": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2025"
+    },
+    "bud": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2025"
+    },
+    "a1zap-by-a1base": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2025"
+    },
+    "10x": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2025"
+    },
+    "pluto": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2025"
+    },
+    "candor-security": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2025"
+    },
+    "sherpa-labs": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2025"
+    },
+    "waffle": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2025"
+    },
+    "tee-time-tommy": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2025"
+    },
+    "joindex": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2025"
+    },
+    "autostep": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2025"
+    },
+    "synthio-labs": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2025"
+    },
+    "alpha-research": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2025"
+    },
+    "freesolo": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2025"
+    },
+    "anana": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2025"
+    },
+    "cartpole": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2025"
+    },
+    "libretto": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2025"
+    },
+    "bramante": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2025"
+    },
+    "orchid-ai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2025"
+    },
+    "naive": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2025"
+    },
+    "vision-lab": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2025"
+    },
+    "chestnut-forty": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2025"
+    },
+    "llm-stats": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2025"
+    },
+    "return-signals": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "humwork": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "magnitude": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2025"
+    },
+    "panoptive": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2025"
+    },
+    "riverbank": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2025"
+    },
+    "theora": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2025"
+    },
+    "costream": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2025"
+    },
+    "char": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2025"
+    },
+    "procindex": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2025"
+    },
+    "f4-industries": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2025"
+    },
+    "rebulk": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2025"
+    },
+    "pollen": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "button-computer": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "smartbase": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "daridev": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Fall 2025"
+    },
+    "soren": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Fall 2025"
+    },
+    "bron": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Fall 2025"
+    },
+    "minro": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Fall 2025"
+    },
+    "trelium": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Fall 2025"
+    },
+    "terrain": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Fall 2025"
+    },
+    "helonic": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Fall 2025"
+    },
+    "tryprism": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "philon": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Fall 2025"
+    },
+    "generalastro": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "nerviom": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Fall 2025"
+    },
+    "zag": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Fall 2025"
+    },
+    "vector-legal": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "amika": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Fall 2025"
+    },
+    "crosslayer-labs": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "ndea-com": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "coasts": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Fall 2025"
+    },
+    "claimglide": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "mantis": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "eos-ai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "clara-2": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "payna": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "imperfect": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "one-robot": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "syntropy": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "klaus-ai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "docura-health": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "asimov": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "shortkit": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "fuchsia": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "cofia": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "cascade": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "envariant": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "celltype": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "pirislabs": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "openspec": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "cignara": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "carson": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "21st": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "palus-finance": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "tepali": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "zatanna": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "scheduling-wizard": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "aemon": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "ashr": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "milliray": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "moritz": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "fern-bot": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "ventura": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "terranox-ai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "sponge": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "mango-medical-inc": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "confluence-labs": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "brownie": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "proximitty": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "cajal-technologies": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "overshoot": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "terminal-use": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "end-close": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "fenrock-ai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "revion": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "approxima": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "9-mothers-corporation": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "valence": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "usereframe": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "congruent": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "inventoryquant": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "emdash": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "sazabi": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "archal": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2026"
+    },
+    "superset": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "datoric": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "doomersion": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "glue": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "remy-ai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "foreman": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "inth": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "the-token-company": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "sila": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "canary": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "copperlane": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "control-seat": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Summer 2026"
+    },
+    "talking-computers": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "mochacare": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "polymorph": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "regbase": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "rubric-ai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "origami-robotics": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "fixture": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "trybloom": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "dispatch": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "carrot-labs": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "unifold": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "wayco": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "remix-3": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "wideframe": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "trycardinal-ai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Winter 2026"
+    },
+    "hedge": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "korso": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "primitive": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "standard-signal": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "stage": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "gikl-inc": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "totalis": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "replicas": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "rudus": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "lightsprint": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "matforge": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "saffron": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "chert": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "nine-fives": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "andustry": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "inloop-robotics": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "dayjob": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "trellistech": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "refortifai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "tenet-industries": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "hubxyz": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "light-anchor": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "godhands": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Fall 2026"
+    },
+    "pulsent": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "govguard": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "kinro": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "juno-chat": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "zolvo": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "interfaze": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "elyra": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "hevn-inc": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "qomplement": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "standout": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "userlens": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "sherpa": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "salesgraph": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "rentahuman": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "andco": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "arga-labs": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "drippay": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "callab-ai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "pairio": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "taiga": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "stablebrowse": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "kimpton-ai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "lamina-labs": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "lab0": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "gojiberry-ai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "napkin-math": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "ontora": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "oddpool": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "keyframe-labs": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "adialante": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "lumius": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "textsidekick": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "alchemyai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "mount": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "aice-power": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "complir": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "runharbor": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "smol-machines": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "archer": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "minicor": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "datost": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "ara": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "zibra-labs": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "plan0-ai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "tasklet-2": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "kuli": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "ardent": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "biostack-platforms": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "silmaril": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "saudara-ai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "memory-store": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "ornadyne": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "foaster": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "eden-robotics": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "testerarmy": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "amboras": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "asterlab": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "openwork": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "projectx": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "arzana": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "pentagon": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "expanse": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "youart": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "runtime": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "kinect": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "indexable": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "revnu": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "asendia-ai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "mochatrade": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "manicule": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "gigacatalyst": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "klaimee": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "kugelaudio": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "modern": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "reasonblocks": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "insforge": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "playablai": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "framewise-health": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "intelligence-factory": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "maquoketa-research": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "cohesion": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
+    },
+    "huscarl": {
+      "firstSeen": "2026-05-05T10:43:47.074Z",
+      "batch": "Spring 2026"
     }
   },
-  "lastRun": "2026-05-04T11:03:02.599Z"
+  "lastRun": "2026-05-05T10:43:47.074Z"
 }
