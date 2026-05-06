@@ -24027,7 +24027,35 @@
     "huscarl": {
       "firstSeen": "2026-05-05T10:43:47.074Z",
       "batch": "Spring 2026"
+    },
+    "netter": {
+      "firstSeen": "2026-05-06T11:04:06.588Z",
+      "batch": "Spring 2026"
+    },
+    "scope": {
+      "firstSeen": "2026-05-06T11:04:06.588Z",
+      "batch": "Spring 2026"
+    },
+    "prototypingio": {
+      "firstSeen": "2026-05-06T11:04:06.588Z",
+      "batch": "Spring 2026"
+    },
+    "chronicle-labs": {
+      "firstSeen": "2026-05-06T11:04:06.588Z",
+      "batch": "Spring 2026"
+    },
+    "pops": {
+      "firstSeen": "2026-05-06T11:04:06.588Z",
+      "batch": "Spring 2026"
+    },
+    "anoria": {
+      "firstSeen": "2026-05-06T11:04:06.588Z",
+      "batch": "Spring 2026"
+    },
+    "agentphone": {
+      "firstSeen": "2026-05-06T11:04:06.588Z",
+      "batch": "Spring 2026"
     }
   },
-  "lastRun": "2026-05-05T10:43:47.074Z"
+  "lastRun": "2026-05-06T11:04:06.588Z"
 }
