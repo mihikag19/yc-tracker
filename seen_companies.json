@@ -24055,7 +24055,31 @@
     "agentphone": {
       "firstSeen": "2026-05-06T11:04:06.588Z",
       "batch": "Spring 2026"
+    },
+    "serno": {
+      "firstSeen": "2026-05-07T11:07:51.174Z",
+      "batch": "Winter 2025"
+    },
+    "kairos": {
+      "firstSeen": "2026-05-07T11:07:51.174Z",
+      "batch": "Spring 2025"
+    },
+    "signals": {
+      "firstSeen": "2026-05-07T11:07:51.174Z",
+      "batch": "Winter 2026"
+    },
+    "pavoot": {
+      "firstSeen": "2026-05-07T11:07:51.174Z",
+      "batch": "Spring 2026"
+    },
+    "arden": {
+      "firstSeen": "2026-05-07T11:07:51.174Z",
+      "batch": "Spring 2026"
+    },
+    "clawvisor": {
+      "firstSeen": "2026-05-07T11:07:51.174Z",
+      "batch": "Spring 2026"
     }
   },
-  "lastRun": "2026-05-06T11:04:06.588Z"
+  "lastRun": "2026-05-07T11:07:51.174Z"
 }
