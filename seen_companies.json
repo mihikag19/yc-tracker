@@ -24079,7 +24079,35 @@
     "clawvisor": {
       "firstSeen": "2026-05-07T11:07:51.174Z",
       "batch": "Spring 2026"
+    },
+    "lopus": {
+      "firstSeen": "2026-05-08T10:21:54.671Z",
+      "batch": "Winter 2025"
+    },
+    "preseen": {
+      "firstSeen": "2026-05-08T10:21:54.671Z",
+      "batch": "Summer 2025"
+    },
+    "foresight": {
+      "firstSeen": "2026-05-08T10:21:54.671Z",
+      "batch": "Summer 2025"
+    },
+    "superlog": {
+      "firstSeen": "2026-05-08T10:21:54.671Z",
+      "batch": "Spring 2026"
+    },
+    "instaagent": {
+      "firstSeen": "2026-05-08T10:21:54.671Z",
+      "batch": "Spring 2026"
+    },
+    "armature": {
+      "firstSeen": "2026-05-08T10:21:54.671Z",
+      "batch": "Spring 2026"
+    },
+    "hyper-4": {
+      "firstSeen": "2026-05-08T10:21:54.671Z",
+      "batch": "Spring 2026"
     }
   },
-  "lastRun": "2026-05-07T11:07:51.174Z"
+  "lastRun": "2026-05-08T10:21:54.671Z"
 }
