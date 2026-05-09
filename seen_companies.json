@@ -24107,7 +24107,15 @@
     "hyper-4": {
       "firstSeen": "2026-05-08T10:21:54.671Z",
       "batch": "Spring 2026"
+    },
+    "klarify": {
+      "firstSeen": "2026-05-09T10:03:01.801Z",
+      "batch": "Spring 2026"
+    },
+    "synphony": {
+      "firstSeen": "2026-05-09T10:03:01.801Z",
+      "batch": "Spring 2026"
     }
   },
-  "lastRun": "2026-05-08T10:21:54.671Z"
+  "lastRun": "2026-05-09T10:03:01.801Z"
 }
