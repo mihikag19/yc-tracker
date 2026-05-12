@@ -24135,7 +24135,43 @@
     "arctic-health": {
       "firstSeen": "2026-05-11T12:08:25.630Z",
       "batch": "Spring 2026"
+    },
+    "buro-de-ingresos": {
+      "firstSeen": "2026-05-12T11:19:05.998Z",
+      "batch": "Summer 2021"
+    },
+    "agentcollect": {
+      "firstSeen": "2026-05-12T11:19:05.998Z",
+      "batch": "Summer 2023"
+    },
+    "structured-labs": {
+      "firstSeen": "2026-05-12T11:19:05.998Z",
+      "batch": "Summer 2023"
+    },
+    "finaldose": {
+      "firstSeen": "2026-05-12T11:19:05.998Z",
+      "batch": "Spring 2026"
+    },
+    "withai": {
+      "firstSeen": "2026-05-12T11:19:05.998Z",
+      "batch": "Spring 2026"
+    },
+    "the-company-company": {
+      "firstSeen": "2026-05-12T11:19:05.998Z",
+      "batch": "Spring 2026"
+    },
+    "madrone": {
+      "firstSeen": "2026-05-12T11:19:05.998Z",
+      "batch": "Spring 2026"
+    },
+    "alchemize": {
+      "firstSeen": "2026-05-12T11:19:05.998Z",
+      "batch": "Spring 2026"
+    },
+    "aseon-labs": {
+      "firstSeen": "2026-05-12T11:19:05.998Z",
+      "batch": "Spring 2026"
     }
   },
-  "lastRun": "2026-05-11T12:08:25.630Z"
+  "lastRun": "2026-05-12T11:19:05.998Z"
 }
