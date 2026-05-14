@@ -24195,7 +24195,31 @@
     "heyclicky": {
       "firstSeen": "2026-05-13T11:28:47.310Z",
       "batch": "Spring 2026"
+    },
+    "whip": {
+      "firstSeen": "2026-05-14T11:11:48.367Z",
+      "batch": "Winter 2024"
+    },
+    "takecareos": {
+      "firstSeen": "2026-05-14T11:11:48.367Z",
+      "batch": "Spring 2026"
+    },
+    "perfectbit": {
+      "firstSeen": "2026-05-14T11:11:48.367Z",
+      "batch": "Spring 2026"
+    },
+    "abinitio-bio": {
+      "firstSeen": "2026-05-14T11:11:48.367Z",
+      "batch": "Spring 2026"
+    },
+    "auxos": {
+      "firstSeen": "2026-05-14T11:11:48.367Z",
+      "batch": "Spring 2026"
+    },
+    "rote": {
+      "firstSeen": "2026-05-14T11:11:48.367Z",
+      "batch": "Winter 2027"
     }
   },
-  "lastRun": "2026-05-13T11:28:47.310Z"
+  "lastRun": "2026-05-14T11:11:48.367Z"
 }
