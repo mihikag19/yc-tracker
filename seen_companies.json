@@ -24219,7 +24219,23 @@
     "rote": {
       "firstSeen": "2026-05-14T11:11:48.367Z",
       "batch": "Winter 2027"
+    },
+    "madethis": {
+      "firstSeen": "2026-05-15T11:19:47.236Z",
+      "batch": "Fall 2025"
+    },
+    "advanced-metal-research": {
+      "firstSeen": "2026-05-15T11:19:47.236Z",
+      "batch": "Spring 2026"
+    },
+    "hexa": {
+      "firstSeen": "2026-05-15T11:19:47.236Z",
+      "batch": "Spring 2026"
+    },
+    "general-aviation": {
+      "firstSeen": "2026-05-15T11:19:47.236Z",
+      "batch": "Spring 2026"
     }
   },
-  "lastRun": "2026-05-14T11:11:48.367Z"
+  "lastRun": "2026-05-15T11:19:47.236Z"
 }
