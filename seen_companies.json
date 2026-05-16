@@ -24235,7 +24235,19 @@
     "general-aviation": {
       "firstSeen": "2026-05-15T11:19:47.236Z",
       "batch": "Spring 2026"
+    },
+    "incandor": {
+      "firstSeen": "2026-05-16T10:11:47.636Z",
+      "batch": "Spring 2026"
+    },
+    "transload": {
+      "firstSeen": "2026-05-16T10:11:47.636Z",
+      "batch": "Spring 2026"
+    },
+    "guild": {
+      "firstSeen": "2026-05-16T10:11:47.636Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-05-15T11:19:47.236Z"
+  "lastRun": "2026-05-16T10:11:47.636Z"
 }
