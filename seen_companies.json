@@ -24247,7 +24247,19 @@
     "guild": {
       "firstSeen": "2026-05-16T10:11:47.636Z",
       "batch": "Summer 2026"
+    },
+    "deep-interactions": {
+      "firstSeen": "2026-05-17T10:20:31.550Z",
+      "batch": "Spring 2026"
+    },
+    "arlo-industries": {
+      "firstSeen": "2026-05-17T10:20:31.550Z",
+      "batch": "Spring 2026"
+    },
+    "panacea": {
+      "firstSeen": "2026-05-17T10:20:31.550Z",
+      "batch": "Spring 2026"
     }
   },
-  "lastRun": "2026-05-16T10:11:47.636Z"
+  "lastRun": "2026-05-17T10:20:31.550Z"
 }
