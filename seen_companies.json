@@ -24259,7 +24259,15 @@
     "panacea": {
       "firstSeen": "2026-05-17T10:20:31.550Z",
       "batch": "Spring 2026"
+    },
+    "wato": {
+      "firstSeen": "2026-05-18T12:26:37.137Z",
+      "batch": "Spring 2026"
+    },
+    "aquashield": {
+      "firstSeen": "2026-05-18T12:26:37.137Z",
+      "batch": "Spring 2026"
     }
   },
-  "lastRun": "2026-05-17T10:20:31.550Z"
+  "lastRun": "2026-05-18T12:26:37.137Z"
 }
