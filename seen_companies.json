@@ -24267,7 +24267,23 @@
     "aquashield": {
       "firstSeen": "2026-05-18T12:26:37.137Z",
       "batch": "Spring 2026"
+    },
+    "aios": {
+      "firstSeen": "2026-05-19T12:06:30.528Z",
+      "batch": "Winter 2020"
+    },
+    "kelai": {
+      "firstSeen": "2026-05-19T12:06:30.528Z",
+      "batch": "Spring 2026"
+    },
+    "allowance": {
+      "firstSeen": "2026-05-19T12:06:30.528Z",
+      "batch": "Spring 2026"
+    },
+    "general-instinct": {
+      "firstSeen": "2026-05-19T12:06:30.528Z",
+      "batch": "Spring 2026"
     }
   },
-  "lastRun": "2026-05-18T12:26:37.137Z"
+  "lastRun": "2026-05-19T12:06:30.528Z"
 }
