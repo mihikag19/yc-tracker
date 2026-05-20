@@ -24283,7 +24283,23 @@
     "general-instinct": {
       "firstSeen": "2026-05-19T12:06:30.528Z",
       "batch": "Spring 2026"
+    },
+    "limrun": {
+      "firstSeen": "2026-05-20T11:47:50.861Z",
+      "batch": "Spring 2026"
+    },
+    "hessian": {
+      "firstSeen": "2026-05-20T11:47:50.861Z",
+      "batch": "Spring 2026"
+    },
+    "openprose": {
+      "firstSeen": "2026-05-20T11:47:50.861Z",
+      "batch": "Spring 2026"
+    },
+    "avea-robotics": {
+      "firstSeen": "2026-05-20T11:47:50.861Z",
+      "batch": "Spring 2026"
     }
   },
-  "lastRun": "2026-05-19T12:06:30.528Z"
+  "lastRun": "2026-05-20T11:47:50.861Z"
 }
