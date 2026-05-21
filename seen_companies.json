@@ -24299,7 +24299,23 @@
     "avea-robotics": {
       "firstSeen": "2026-05-20T11:47:50.861Z",
       "batch": "Spring 2026"
+    },
+    "antigen": {
+      "firstSeen": "2026-05-21T12:11:56.590Z",
+      "batch": "Fall 2025"
+    },
+    "voquill": {
+      "firstSeen": "2026-05-21T12:11:56.590Z",
+      "batch": "Spring 2026"
+    },
+    "result": {
+      "firstSeen": "2026-05-21T12:11:56.590Z",
+      "batch": "Spring 2026"
+    },
+    "river-markets": {
+      "firstSeen": "2026-05-21T12:11:56.590Z",
+      "batch": "Spring 2026"
     }
   },
-  "lastRun": "2026-05-20T11:47:50.861Z"
+  "lastRun": "2026-05-21T12:11:56.590Z"
 }
