@@ -24319,7 +24319,19 @@
     "lattice-health": {
       "firstSeen": "2026-05-22T11:43:39.248Z",
       "batch": "Spring 2026"
+    },
+    "units": {
+      "firstSeen": "2026-05-23T10:24:41.839Z",
+      "batch": "Spring 2025"
+    },
+    "apollo-atomics-inc": {
+      "firstSeen": "2026-05-23T10:24:41.839Z",
+      "batch": "Spring 2026"
+    },
+    "rightnow": {
+      "firstSeen": "2026-05-23T10:24:41.839Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-05-22T11:43:39.248Z"
+  "lastRun": "2026-05-23T10:24:41.839Z"
 }
