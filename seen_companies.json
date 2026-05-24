@@ -24331,7 +24331,15 @@
     "rightnow": {
       "firstSeen": "2026-05-23T10:24:41.839Z",
       "batch": "Fall 2026"
+    },
+    "argos": {
+      "firstSeen": "2026-05-24T10:28:32.900Z",
+      "batch": "Winter 2025"
+    },
+    "useparrot": {
+      "firstSeen": "2026-05-24T10:28:32.900Z",
+      "batch": "Spring 2026"
     }
   },
-  "lastRun": "2026-05-23T10:24:41.839Z"
+  "lastRun": "2026-05-24T10:28:32.900Z"
 }
