@@ -24339,7 +24339,15 @@
     "useparrot": {
       "firstSeen": "2026-05-24T10:28:32.900Z",
       "batch": "Spring 2026"
+    },
+    "degla-inc": {
+      "firstSeen": "2026-05-25T12:26:40.055Z",
+      "batch": "Fall 2026"
+    },
+    "codag": {
+      "firstSeen": "2026-05-25T12:26:40.055Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-05-24T10:28:32.900Z"
+  "lastRun": "2026-05-25T12:26:40.055Z"
 }
