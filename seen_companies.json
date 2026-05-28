@@ -24347,7 +24347,63 @@
     "codag": {
       "firstSeen": "2026-05-25T12:26:40.055Z",
       "batch": "Summer 2026"
+    },
+    "freebuff": {
+      "firstSeen": "2026-05-28T12:24:20.751Z",
+      "batch": "Fall 2024"
+    },
+    "pelica": {
+      "firstSeen": "2026-05-28T12:24:20.751Z",
+      "batch": "Spring 2025"
+    },
+    "withspecific": {
+      "firstSeen": "2026-05-28T12:24:20.751Z",
+      "batch": "Fall 2025"
+    },
+    "memoir": {
+      "firstSeen": "2026-05-28T12:24:20.751Z",
+      "batch": "Spring 2026"
+    },
+    "twolabs": {
+      "firstSeen": "2026-05-28T12:24:20.751Z",
+      "batch": "Spring 2026"
+    },
+    "bentolabs-ai": {
+      "firstSeen": "2026-05-28T12:24:20.751Z",
+      "batch": "Spring 2026"
+    },
+    "infera": {
+      "firstSeen": "2026-05-28T12:24:20.751Z",
+      "batch": "Spring 2026"
+    },
+    "valctrl": {
+      "firstSeen": "2026-05-28T12:24:20.751Z",
+      "batch": "Spring 2026"
+    },
+    "soria": {
+      "firstSeen": "2026-05-28T12:24:20.751Z",
+      "batch": "Spring 2026"
+    },
+    "walter": {
+      "firstSeen": "2026-05-28T12:24:20.751Z",
+      "batch": "Spring 2026"
+    },
+    "gravy": {
+      "firstSeen": "2026-05-28T12:24:20.751Z",
+      "batch": "Spring 2026"
+    },
+    "uno-wallet": {
+      "firstSeen": "2026-05-28T12:24:20.751Z",
+      "batch": "Spring 2026"
+    },
+    "enjamb-labs": {
+      "firstSeen": "2026-05-28T12:24:20.751Z",
+      "batch": "Spring 2026"
+    },
+    "rex-inc": {
+      "firstSeen": "2026-05-28T12:24:20.751Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-05-25T12:26:40.055Z"
+  "lastRun": "2026-05-28T12:24:20.751Z"
 }
