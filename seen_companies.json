@@ -24403,7 +24403,35 @@
     "rex-inc": {
       "firstSeen": "2026-05-28T12:24:20.751Z",
       "batch": "Summer 2026"
+    },
+    "drafted": {
+      "firstSeen": "2026-05-29T12:13:07.130Z",
+      "batch": "Spring 2026"
+    },
+    "instinct-xyz": {
+      "firstSeen": "2026-05-29T12:13:07.130Z",
+      "batch": "Winter 2026"
+    },
+    "wealor": {
+      "firstSeen": "2026-05-29T12:13:07.130Z",
+      "batch": "Spring 2026"
+    },
+    "raspire": {
+      "firstSeen": "2026-05-29T12:13:07.130Z",
+      "batch": "Spring 2026"
+    },
+    "probe": {
+      "firstSeen": "2026-05-29T12:13:07.130Z",
+      "batch": "Spring 2026"
+    },
+    "centralcoms": {
+      "firstSeen": "2026-05-29T12:13:07.130Z",
+      "batch": "Spring 2026"
+    },
+    "thomas": {
+      "firstSeen": "2026-05-29T12:13:07.130Z",
+      "batch": "Spring 2026"
     }
   },
-  "lastRun": "2026-05-28T12:24:20.751Z"
+  "lastRun": "2026-05-29T12:13:07.130Z"
 }
