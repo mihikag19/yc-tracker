@@ -24431,7 +24431,19 @@
     "thomas": {
       "firstSeen": "2026-05-29T12:13:07.130Z",
       "batch": "Spring 2026"
+    },
+    "axel-travel": {
+      "firstSeen": "2026-05-30T10:45:56.319Z",
+      "batch": "Winter 2019"
+    },
+    "aice": {
+      "firstSeen": "2026-05-30T10:45:56.319Z",
+      "batch": "Spring 2026"
+    },
+    "plena-health": {
+      "firstSeen": "2026-05-30T10:45:56.319Z",
+      "batch": "Spring 2026"
     }
   },
-  "lastRun": "2026-05-29T12:13:07.130Z"
+  "lastRun": "2026-05-30T10:45:56.319Z"
 }
