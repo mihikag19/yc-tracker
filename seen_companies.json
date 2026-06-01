@@ -24459,7 +24459,11 @@
     "miso-labs": {
       "firstSeen": "2026-05-31T10:54:54.446Z",
       "batch": "Summer 2025"
+    },
+    "tally-2": {
+      "firstSeen": "2026-06-01T14:57:22.268Z",
+      "batch": "Winter 2025"
     }
   },
-  "lastRun": "2026-05-31T10:54:54.446Z"
+  "lastRun": "2026-06-01T14:57:22.268Z"
 }
