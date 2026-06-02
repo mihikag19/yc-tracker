@@ -24463,7 +24463,23 @@
     "tally-2": {
       "firstSeen": "2026-06-01T14:57:22.268Z",
       "batch": "Winter 2025"
+    },
+    "shotwellai": {
+      "firstSeen": "2026-06-02T12:38:36.711Z",
+      "batch": "Spring 2026"
+    },
+    "tdaycom": {
+      "firstSeen": "2026-06-02T12:38:36.711Z",
+      "batch": "Spring 2026"
+    },
+    "huscarl-inc": {
+      "firstSeen": "2026-06-02T12:38:36.711Z",
+      "batch": "Spring 2026"
+    },
+    "contextdev": {
+      "firstSeen": "2026-06-02T12:38:36.711Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-06-01T14:57:22.268Z"
+  "lastRun": "2026-06-02T12:38:36.711Z"
 }
