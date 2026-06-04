@@ -24479,7 +24479,15 @@
     "contextdev": {
       "firstSeen": "2026-06-02T12:38:36.711Z",
       "batch": "Summer 2026"
+    },
+    "zenbu-2": {
+      "firstSeen": "2026-06-04T11:49:41.981Z",
+      "batch": "Spring 2026"
+    },
+    "realpact": {
+      "firstSeen": "2026-06-04T11:49:41.981Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-06-03T13:13:47.985Z"
+  "lastRun": "2026-06-04T11:49:41.981Z"
 }
