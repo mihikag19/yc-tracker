@@ -24487,7 +24487,27 @@
     "realpact": {
       "firstSeen": "2026-06-04T11:49:41.981Z",
       "batch": "Summer 2026"
+    },
+    "sei-ai": {
+      "firstSeen": "2026-06-05T12:06:15.406Z",
+      "batch": "Winter 2022"
+    },
+    "tekton-dynamics": {
+      "firstSeen": "2026-06-05T12:06:15.406Z",
+      "batch": "Winter 2024"
+    },
+    "atrisa": {
+      "firstSeen": "2026-06-05T12:06:15.406Z",
+      "batch": "Spring 2026"
+    },
+    "akkari": {
+      "firstSeen": "2026-06-05T12:06:15.406Z",
+      "batch": "Spring 2026"
+    },
+    "care-gp": {
+      "firstSeen": "2026-06-05T12:06:15.406Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-06-04T11:49:41.981Z"
+  "lastRun": "2026-06-05T12:06:15.406Z"
 }
