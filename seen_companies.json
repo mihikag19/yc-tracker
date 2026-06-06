@@ -24507,7 +24507,15 @@
     "care-gp": {
       "firstSeen": "2026-06-05T12:06:15.406Z",
       "batch": "Summer 2026"
+    },
+    "humance": {
+      "firstSeen": "2026-06-06T10:51:47.862Z",
+      "batch": "Winter 2021"
+    },
+    "agentcard": {
+      "firstSeen": "2026-06-06T10:51:47.862Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-06-05T12:06:15.406Z"
+  "lastRun": "2026-06-06T10:51:47.862Z"
 }
