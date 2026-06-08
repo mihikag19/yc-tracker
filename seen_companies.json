@@ -24515,7 +24515,11 @@
     "agentcard": {
       "firstSeen": "2026-06-06T10:51:47.862Z",
       "batch": "Summer 2026"
+    },
+    "physical-turing": {
+      "firstSeen": "2026-06-08T13:04:43.570Z",
+      "batch": "Summer 2025"
     }
   },
-  "lastRun": "2026-06-07T11:07:19.998Z"
+  "lastRun": "2026-06-08T13:04:43.570Z"
 }
