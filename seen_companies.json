@@ -24519,7 +24519,27 @@
     "physical-turing": {
       "firstSeen": "2026-06-08T13:04:43.570Z",
       "batch": "Summer 2025"
+    },
+    "outpaintcom": {
+      "firstSeen": "2026-06-09T11:57:36.414Z",
+      "batch": "Winter 2021"
+    },
+    "hudson": {
+      "firstSeen": "2026-06-09T11:57:36.414Z",
+      "batch": "Winter 2025"
+    },
+    "ploy": {
+      "firstSeen": "2026-06-09T11:57:36.414Z",
+      "batch": "Spring 2026"
+    },
+    "prescience": {
+      "firstSeen": "2026-06-09T11:57:36.414Z",
+      "batch": "Summer 2026"
+    },
+    "cerenovus": {
+      "firstSeen": "2026-06-09T11:57:36.414Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-06-08T13:04:43.570Z"
+  "lastRun": "2026-06-09T11:57:36.414Z"
 }
