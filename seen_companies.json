@@ -24539,7 +24539,27 @@
     "cerenovus": {
       "firstSeen": "2026-06-09T11:57:36.414Z",
       "batch": "Summer 2026"
+    },
+    "tuesday-labs": {
+      "firstSeen": "2026-06-10T12:17:50.809Z",
+      "batch": "Winter 2024"
+    },
+    "no-logo": {
+      "firstSeen": "2026-06-10T12:17:50.809Z",
+      "batch": "Summer 2024"
+    },
+    "quotain": {
+      "firstSeen": "2026-06-10T12:17:50.809Z",
+      "batch": "Summer 2025"
+    },
+    "machine0": {
+      "firstSeen": "2026-06-10T12:17:50.809Z",
+      "batch": "Summer 2026"
+    },
+    "hop-aero": {
+      "firstSeen": "2026-06-10T12:17:50.809Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-06-09T11:57:36.414Z"
+  "lastRun": "2026-06-10T12:17:50.809Z"
 }
