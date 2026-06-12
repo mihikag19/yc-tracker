@@ -24567,7 +24567,15 @@
     "glen": {
       "firstSeen": "2026-06-11T12:42:42.091Z",
       "batch": "Summer 2026"
+    },
+    "tallyhq": {
+      "firstSeen": "2026-06-12T12:16:42.763Z",
+      "batch": "Winter 2025"
+    },
+    "linzumi": {
+      "firstSeen": "2026-06-12T12:16:42.763Z",
+      "batch": "Spring 2026"
     }
   },
-  "lastRun": "2026-06-11T12:42:42.091Z"
+  "lastRun": "2026-06-12T12:16:42.763Z"
 }
