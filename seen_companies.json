@@ -24599,7 +24599,11 @@
     "mireye": {
       "firstSeen": "2026-06-14T11:28:03.239Z",
       "batch": "Summer 2026"
+    },
+    "stably-ai-orca": {
+      "firstSeen": "2026-06-15T15:11:51.761Z",
+      "batch": "Winter 2022"
     }
   },
-  "lastRun": "2026-06-14T11:28:03.239Z"
+  "lastRun": "2026-06-15T15:11:51.761Z"
 }
