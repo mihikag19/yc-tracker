@@ -24603,7 +24603,11 @@
     "stably-ai-orca": {
       "firstSeen": "2026-06-15T15:11:51.761Z",
       "batch": "Winter 2022"
+    },
+    "hub": {
+      "firstSeen": "2026-06-17T12:49:47.509Z",
+      "batch": "Spring 2026"
     }
   },
-  "lastRun": "2026-06-16T13:25:54.361Z"
+  "lastRun": "2026-06-17T12:49:47.509Z"
 }
