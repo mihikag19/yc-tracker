@@ -24619,7 +24619,15 @@
     "tolmo": {
       "firstSeen": "2026-06-18T12:22:17.101Z",
       "batch": "Spring 2026"
+    },
+    "getdot": {
+      "firstSeen": "2026-06-19T12:43:29.303Z",
+      "batch": "Summer 2021"
+    },
+    "pango": {
+      "firstSeen": "2026-06-19T12:43:29.303Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-06-18T12:22:17.101Z"
+  "lastRun": "2026-06-19T12:43:29.303Z"
 }
