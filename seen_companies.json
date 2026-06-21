@@ -24627,7 +24627,15 @@
     "pango": {
       "firstSeen": "2026-06-19T12:43:29.303Z",
       "batch": "Summer 2026"
+    },
+    "orca-client": {
+      "firstSeen": "2026-06-21T11:43:34.141Z",
+      "batch": "Summer 2024"
+    },
+    "osmaura": {
+      "firstSeen": "2026-06-21T11:43:34.141Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-06-20T11:14:45.518Z"
+  "lastRun": "2026-06-21T11:43:34.141Z"
 }
