@@ -24635,7 +24635,15 @@
     "osmaura": {
       "firstSeen": "2026-06-21T11:43:34.141Z",
       "batch": "Summer 2026"
+    },
+    "truffle": {
+      "firstSeen": "2026-06-22T14:34:52.104Z",
+      "batch": "Summer 2026"
+    },
+    "levocred-ai": {
+      "firstSeen": "2026-06-22T14:34:52.104Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-06-21T11:43:34.141Z"
+  "lastRun": "2026-06-22T14:34:52.104Z"
 }
