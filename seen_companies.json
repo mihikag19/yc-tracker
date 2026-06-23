@@ -24643,7 +24643,15 @@
     "levocred-ai": {
       "firstSeen": "2026-06-22T14:34:52.104Z",
       "batch": "Summer 2026"
+    },
+    "perseus": {
+      "firstSeen": "2026-06-23T11:58:09.419Z",
+      "batch": "Fall 2025"
+    },
+    "cova": {
+      "firstSeen": "2026-06-23T11:58:09.419Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-06-22T14:34:52.104Z"
+  "lastRun": "2026-06-23T11:58:09.419Z"
 }
