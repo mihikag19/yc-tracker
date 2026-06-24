@@ -24651,7 +24651,39 @@
     "cova": {
       "firstSeen": "2026-06-23T11:58:09.419Z",
       "batch": "Summer 2026"
+    },
+    "laminar-com": {
+      "firstSeen": "2026-06-24T11:43:00.260Z",
+      "batch": "Fall 2024"
+    },
+    "tell-if-ai": {
+      "firstSeen": "2026-06-24T11:43:00.260Z",
+      "batch": "Fall 2025"
+    },
+    "shepherd-3": {
+      "firstSeen": "2026-06-24T11:43:00.260Z",
+      "batch": "Summer 2026"
+    },
+    "atlas-discovery": {
+      "firstSeen": "2026-06-24T11:43:00.260Z",
+      "batch": "Summer 2026"
+    },
+    "blueprints": {
+      "firstSeen": "2026-06-24T11:43:00.260Z",
+      "batch": "Summer 2026"
+    },
+    "talentpluto": {
+      "firstSeen": "2026-06-24T11:43:00.260Z",
+      "batch": "Summer 2026"
+    },
+    "bloomy": {
+      "firstSeen": "2026-06-24T11:43:00.260Z",
+      "batch": "Summer 2026"
+    },
+    "lato": {
+      "firstSeen": "2026-06-24T11:43:00.260Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-06-23T11:58:09.419Z"
+  "lastRun": "2026-06-24T11:43:00.260Z"
 }
