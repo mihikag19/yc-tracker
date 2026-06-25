@@ -24683,7 +24683,35 @@
     "lato": {
       "firstSeen": "2026-06-24T11:43:00.260Z",
       "batch": "Summer 2026"
+    },
+    "draft-the-record": {
+      "firstSeen": "2026-06-25T11:38:23.094Z",
+      "batch": "Summer 2024"
+    },
+    "poth-labs": {
+      "firstSeen": "2026-06-25T11:38:23.094Z",
+      "batch": "Summer 2026"
+    },
+    "parasma": {
+      "firstSeen": "2026-06-25T11:38:23.094Z",
+      "batch": "Summer 2026"
+    },
+    "insurf": {
+      "firstSeen": "2026-06-25T11:38:23.094Z",
+      "batch": "Summer 2026"
+    },
+    "markov": {
+      "firstSeen": "2026-06-25T11:38:23.094Z",
+      "batch": "Summer 2026"
+    },
+    "coasty": {
+      "firstSeen": "2026-06-25T11:38:23.094Z",
+      "batch": "Summer 2026"
+    },
+    "simantic": {
+      "firstSeen": "2026-06-25T11:38:23.094Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-06-24T11:43:00.260Z"
+  "lastRun": "2026-06-25T11:38:23.094Z"
 }
