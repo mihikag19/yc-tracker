@@ -24711,7 +24711,31 @@
     "simantic": {
       "firstSeen": "2026-06-25T11:38:23.094Z",
       "batch": "Fall 2026"
+    },
+    "panelytic": {
+      "firstSeen": "2026-06-26T11:42:44.203Z",
+      "batch": "Winter 2024"
+    },
+    "flowmanual": {
+      "firstSeen": "2026-06-26T11:42:44.203Z",
+      "batch": "Summer 2026"
+    },
+    "whitespace": {
+      "firstSeen": "2026-06-26T11:42:44.203Z",
+      "batch": "Summer 2026"
+    },
+    "isengard-industries-inc": {
+      "firstSeen": "2026-06-26T11:42:44.203Z",
+      "batch": "Summer 2026"
+    },
+    "denta": {
+      "firstSeen": "2026-06-26T11:42:44.203Z",
+      "batch": "Summer 2026"
+    },
+    "florin": {
+      "firstSeen": "2026-06-26T11:42:44.203Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-06-25T11:38:23.094Z"
+  "lastRun": "2026-06-26T11:42:44.203Z"
 }
