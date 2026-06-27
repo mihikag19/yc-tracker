@@ -24735,7 +24735,27 @@
     "florin": {
       "firstSeen": "2026-06-26T11:42:44.203Z",
       "batch": "Summer 2026"
+    },
+    "baud": {
+      "firstSeen": "2026-06-27T10:55:30.773Z",
+      "batch": "Summer 2026"
+    },
+    "hexclave": {
+      "firstSeen": "2026-06-27T10:55:30.773Z",
+      "batch": "Summer 2024"
+    },
+    "specific-labs": {
+      "firstSeen": "2026-06-27T10:55:30.773Z",
+      "batch": "Fall 2025"
+    },
+    "perceptron-ml": {
+      "firstSeen": "2026-06-27T10:55:30.773Z",
+      "batch": "Summer 2026"
+    },
+    "6thsense": {
+      "firstSeen": "2026-06-27T10:55:30.773Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-06-26T11:42:44.203Z"
+  "lastRun": "2026-06-27T10:55:30.773Z"
 }
