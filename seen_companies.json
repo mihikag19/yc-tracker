@@ -24755,7 +24755,19 @@
     "6thsense": {
       "firstSeen": "2026-06-27T10:55:30.773Z",
       "batch": "Summer 2026"
+    },
+    "dialogus": {
+      "firstSeen": "2026-06-28T11:04:26.453Z",
+      "batch": "Summer 2026"
+    },
+    "operon": {
+      "firstSeen": "2026-06-28T11:04:26.453Z",
+      "batch": "Summer 2026"
+    },
+    "experiential-labs": {
+      "firstSeen": "2026-06-28T11:04:26.453Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-06-27T10:55:30.773Z"
+  "lastRun": "2026-06-28T11:04:26.453Z"
 }
