@@ -24767,7 +24767,19 @@
     "experiential-labs": {
       "firstSeen": "2026-06-28T11:04:26.453Z",
       "batch": "Summer 2026"
+    },
+    "args": {
+      "firstSeen": "2026-06-29T13:04:02.681Z",
+      "batch": "Summer 2025"
+    },
+    "prescience-inc": {
+      "firstSeen": "2026-06-29T13:04:02.681Z",
+      "batch": "Summer 2026"
+    },
+    "bylaw": {
+      "firstSeen": "2026-06-29T13:04:02.681Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-06-28T11:04:26.453Z"
+  "lastRun": "2026-06-29T13:04:02.681Z"
 }
