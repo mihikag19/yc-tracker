@@ -24779,7 +24779,39 @@
     "bylaw": {
       "firstSeen": "2026-06-29T13:04:02.681Z",
       "batch": "Summer 2026"
+    },
+    "loopfour": {
+      "firstSeen": "2026-06-30T11:43:18.177Z",
+      "batch": "Winter 2023"
+    },
+    "twentytwo": {
+      "firstSeen": "2026-06-30T11:43:18.177Z",
+      "batch": "Summer 2025"
+    },
+    "instance": {
+      "firstSeen": "2026-06-30T11:43:18.177Z",
+      "batch": "Summer 2026"
+    },
+    "prized": {
+      "firstSeen": "2026-06-30T11:43:18.177Z",
+      "batch": "Summer 2026"
+    },
+    "verdant": {
+      "firstSeen": "2026-06-30T11:43:18.177Z",
+      "batch": "Summer 2026"
+    },
+    "molagri": {
+      "firstSeen": "2026-06-30T11:43:18.177Z",
+      "batch": "Summer 2026"
+    },
+    "greypoint-industries": {
+      "firstSeen": "2026-06-30T11:43:18.177Z",
+      "batch": "Summer 2026"
+    },
+    "edviro": {
+      "firstSeen": "2026-06-30T11:43:18.177Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-06-29T13:04:02.681Z"
+  "lastRun": "2026-06-30T11:43:18.177Z"
 }
