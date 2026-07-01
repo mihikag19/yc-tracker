@@ -24811,7 +24811,19 @@
     "edviro": {
       "firstSeen": "2026-06-30T11:43:18.177Z",
       "batch": "Summer 2026"
+    },
+    "freestyle-ai": {
+      "firstSeen": "2026-07-01T11:58:39.847Z",
+      "batch": "Fall 2024"
+    },
+    "feyn": {
+      "firstSeen": "2026-07-01T11:58:39.847Z",
+      "batch": "Spring 2025"
+    },
+    "os3": {
+      "firstSeen": "2026-07-01T11:58:39.847Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-06-30T11:43:18.177Z"
+  "lastRun": "2026-07-01T11:58:39.847Z"
 }
