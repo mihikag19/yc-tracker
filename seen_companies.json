@@ -24823,7 +24823,23 @@
     "os3": {
       "firstSeen": "2026-07-01T11:58:39.847Z",
       "batch": "Summer 2026"
+    },
+    "scope3d-fka-wereno": {
+      "firstSeen": "2026-07-02T11:31:39.584Z",
+      "batch": "Winter 2022"
+    },
+    "ossus": {
+      "firstSeen": "2026-07-02T11:31:39.584Z",
+      "batch": "Winter 2026"
+    },
+    "inkbox": {
+      "firstSeen": "2026-07-02T11:31:39.584Z",
+      "batch": "Summer 2026"
+    },
+    "praxis-ai-2": {
+      "firstSeen": "2026-07-02T11:31:39.584Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-01T11:58:39.847Z"
+  "lastRun": "2026-07-02T11:31:39.584Z"
 }
