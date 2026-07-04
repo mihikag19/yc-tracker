@@ -24839,7 +24839,43 @@
     "praxis-ai-2": {
       "firstSeen": "2026-07-02T11:31:39.584Z",
       "batch": "Summer 2026"
+    },
+    "midplane": {
+      "firstSeen": "2026-07-04T10:51:50.607Z",
+      "batch": "Summer 2022"
+    },
+    "ekpa": {
+      "firstSeen": "2026-07-04T10:51:50.607Z",
+      "batch": "Summer 2026"
+    },
+    "discovered-materials": {
+      "firstSeen": "2026-07-04T10:51:50.607Z",
+      "batch": "Spring 2026"
+    },
+    "nebula-security": {
+      "firstSeen": "2026-07-04T10:51:50.607Z",
+      "batch": "Summer 2026"
+    },
+    "noril1": {
+      "firstSeen": "2026-07-04T10:51:50.607Z",
+      "batch": "Summer 2026"
+    },
+    "risklytics": {
+      "firstSeen": "2026-07-04T10:51:50.607Z",
+      "batch": "Summer 2026"
+    },
+    "cosmic-robotics": {
+      "firstSeen": "2026-07-04T10:51:50.607Z",
+      "batch": "Summer 2026"
+    },
+    "petrarch": {
+      "firstSeen": "2026-07-04T10:51:50.607Z",
+      "batch": "Summer 2026"
+    },
+    "salem-robotics-inc": {
+      "firstSeen": "2026-07-04T10:51:50.607Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-03T11:29:32.409Z"
+  "lastRun": "2026-07-04T10:51:50.607Z"
 }
