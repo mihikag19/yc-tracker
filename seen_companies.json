@@ -24875,7 +24875,23 @@
     "salem-robotics-inc": {
       "firstSeen": "2026-07-04T10:51:50.607Z",
       "batch": "Summer 2026"
+    },
+    "scope3d": {
+      "firstSeen": "2026-07-06T12:43:08.357Z",
+      "batch": "Winter 2022"
+    },
+    "mspilot": {
+      "firstSeen": "2026-07-06T12:43:08.357Z",
+      "batch": "Fall 2025"
+    },
+    "hanji": {
+      "firstSeen": "2026-07-06T12:43:08.357Z",
+      "batch": "Spring 2025"
+    },
+    "justinian": {
+      "firstSeen": "2026-07-06T12:43:08.357Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-05T11:02:03.714Z"
+  "lastRun": "2026-07-06T12:43:08.357Z"
 }
