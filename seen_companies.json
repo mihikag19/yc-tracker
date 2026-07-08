@@ -24915,7 +24915,43 @@
     "robocurve": {
       "firstSeen": "2026-07-07T11:45:47.501Z",
       "batch": "Summer 2026"
+    },
+    "irbc": {
+      "firstSeen": "2026-07-08T11:01:16.242Z",
+      "batch": "Spring 2025"
+    },
+    "rindler": {
+      "firstSeen": "2026-07-08T11:01:16.242Z",
+      "batch": "Summer 2026"
+    },
+    "trope": {
+      "firstSeen": "2026-07-08T11:01:16.242Z",
+      "batch": "Summer 2026"
+    },
+    "speko": {
+      "firstSeen": "2026-07-08T11:01:16.242Z",
+      "batch": "Summer 2026"
+    },
+    "rise-reforming": {
+      "firstSeen": "2026-07-08T11:01:16.242Z",
+      "batch": "Summer 2026"
+    },
+    "floracene": {
+      "firstSeen": "2026-07-08T11:01:16.242Z",
+      "batch": "Summer 2026"
+    },
+    "vestris": {
+      "firstSeen": "2026-07-08T11:01:16.242Z",
+      "batch": "Summer 2026"
+    },
+    "hyperprobe": {
+      "firstSeen": "2026-07-08T11:01:16.242Z",
+      "batch": "Summer 2026"
+    },
+    "amulet": {
+      "firstSeen": "2026-07-08T11:01:16.242Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-07T11:45:47.501Z"
+  "lastRun": "2026-07-08T11:01:16.242Z"
 }
