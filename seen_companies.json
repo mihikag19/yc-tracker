@@ -24951,7 +24951,43 @@
     "amulet": {
       "firstSeen": "2026-07-08T11:01:16.242Z",
       "batch": "Summer 2026"
+    },
+    "tempa": {
+      "firstSeen": "2026-07-09T11:54:05.328Z",
+      "batch": "Summer 2017"
+    },
+    "builtos": {
+      "firstSeen": "2026-07-09T11:54:05.328Z",
+      "batch": "Winter 2022"
+    },
+    "inferedge": {
+      "firstSeen": "2026-07-09T11:54:05.328Z",
+      "batch": "Winter 2022"
+    },
+    "general-learning": {
+      "firstSeen": "2026-07-09T11:54:05.328Z",
+      "batch": "Fall 2024"
+    },
+    "pingo": {
+      "firstSeen": "2026-07-09T11:54:05.328Z",
+      "batch": "Summer 2025"
+    },
+    "litmus-build": {
+      "firstSeen": "2026-07-09T11:54:05.328Z",
+      "batch": "Summer 2026"
+    },
+    "torus": {
+      "firstSeen": "2026-07-09T11:54:05.328Z",
+      "batch": "Summer 2026"
+    },
+    "agnost-ai": {
+      "firstSeen": "2026-07-09T11:54:05.328Z",
+      "batch": "Summer 2026"
+    },
+    "conifer": {
+      "firstSeen": "2026-07-09T11:54:05.328Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-08T11:01:16.242Z"
+  "lastRun": "2026-07-09T11:54:05.328Z"
 }
