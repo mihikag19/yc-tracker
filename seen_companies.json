@@ -24987,7 +24987,43 @@
     "conifer": {
       "firstSeen": "2026-07-09T11:54:05.328Z",
       "batch": "Summer 2026"
+    },
+    "libra-robotics": {
+      "firstSeen": "2026-07-10T11:48:04.107Z",
+      "batch": "Summer 2026"
+    },
+    "litmus-hiring": {
+      "firstSeen": "2026-07-10T11:48:04.107Z",
+      "batch": "Summer 2026"
+    },
+    "opentrade": {
+      "firstSeen": "2026-07-10T11:48:04.107Z",
+      "batch": "Summer 2026"
+    },
+    "zomma": {
+      "firstSeen": "2026-07-10T11:48:04.107Z",
+      "batch": "Summer 2026"
+    },
+    "alloovium": {
+      "firstSeen": "2026-07-10T11:48:04.107Z",
+      "batch": "Summer 2026"
+    },
+    "provenmetal": {
+      "firstSeen": "2026-07-10T11:48:04.107Z",
+      "batch": "Summer 2026"
+    },
+    "skymerse": {
+      "firstSeen": "2026-07-10T11:48:04.107Z",
+      "batch": "Summer 2026"
+    },
+    "openrelay": {
+      "firstSeen": "2026-07-10T11:48:04.107Z",
+      "batch": "Summer 2026"
+    },
+    "earendil-robotics": {
+      "firstSeen": "2026-07-10T11:48:04.107Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-09T11:54:05.328Z"
+  "lastRun": "2026-07-10T11:48:04.107Z"
 }
