@@ -25023,7 +25023,31 @@
     "earendil-robotics": {
       "firstSeen": "2026-07-10T11:48:04.107Z",
       "batch": "Summer 2026"
+    },
+    "opencode": {
+      "firstSeen": "2026-07-11T10:11:42.884Z",
+      "batch": "Winter 2021"
+    },
+    "glopdev": {
+      "firstSeen": "2026-07-11T10:11:42.884Z",
+      "batch": "Winter 2021"
+    },
+    "portalform": {
+      "firstSeen": "2026-07-11T10:11:42.884Z",
+      "batch": "Winter 2023"
+    },
+    "palette-2": {
+      "firstSeen": "2026-07-11T10:11:42.884Z",
+      "batch": "Summer 2026"
+    },
+    "alkera-ai": {
+      "firstSeen": "2026-07-11T10:11:42.884Z",
+      "batch": "Summer 2026"
+    },
+    "definite": {
+      "firstSeen": "2026-07-11T10:11:42.884Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-10T11:48:04.107Z"
+  "lastRun": "2026-07-11T10:11:42.884Z"
 }
