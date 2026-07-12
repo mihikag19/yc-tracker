@@ -25047,7 +25047,15 @@
     "definite": {
       "firstSeen": "2026-07-11T10:11:42.884Z",
       "batch": "Summer 2026"
+    },
+    "understudy-labs": {
+      "firstSeen": "2026-07-12T10:24:04.972Z",
+      "batch": "Summer 2026"
+    },
+    "osseus": {
+      "firstSeen": "2026-07-12T10:24:04.972Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-11T10:11:42.884Z"
+  "lastRun": "2026-07-12T10:24:04.972Z"
 }
