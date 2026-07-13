@@ -25055,7 +25055,27 @@
     "osseus": {
       "firstSeen": "2026-07-12T10:24:04.972Z",
       "batch": "Summer 2026"
+    },
+    "elip-ai": {
+      "firstSeen": "2026-07-13T11:57:48.575Z",
+      "batch": "Winter 2025"
+    },
+    "deepaware-ai-robotics-center-of-silicon-valley": {
+      "firstSeen": "2026-07-13T11:57:48.575Z",
+      "batch": "Summer 2025"
+    },
+    "assemble": {
+      "firstSeen": "2026-07-13T11:57:48.575Z",
+      "batch": "Summer 2026"
+    },
+    "hoplite": {
+      "firstSeen": "2026-07-13T11:57:48.575Z",
+      "batch": "Summer 2026"
+    },
+    "onecli": {
+      "firstSeen": "2026-07-13T11:57:48.575Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-12T10:24:04.972Z"
+  "lastRun": "2026-07-13T11:57:48.575Z"
 }
