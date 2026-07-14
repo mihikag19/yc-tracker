@@ -25075,7 +25075,27 @@
     "onecli": {
       "firstSeen": "2026-07-13T11:57:48.575Z",
       "batch": "Summer 2026"
+    },
+    "paper-instruments": {
+      "firstSeen": "2026-07-14T10:42:15.924Z",
+      "batch": "Spring 2025"
+    },
+    "notyfi": {
+      "firstSeen": "2026-07-14T10:42:15.924Z",
+      "batch": "Summer 2026"
+    },
+    "ooak-data": {
+      "firstSeen": "2026-07-14T10:42:15.924Z",
+      "batch": "Summer 2026"
+    },
+    "fabraix": {
+      "firstSeen": "2026-07-14T10:42:15.924Z",
+      "batch": "Summer 2026"
+    },
+    "subvysion": {
+      "firstSeen": "2026-07-14T10:42:15.924Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-13T11:57:48.575Z"
+  "lastRun": "2026-07-14T10:42:15.924Z"
 }
