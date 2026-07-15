@@ -25095,7 +25095,27 @@
     "subvysion": {
       "firstSeen": "2026-07-14T10:42:15.924Z",
       "batch": "Summer 2026"
+    },
+    "handle": {
+      "firstSeen": "2026-07-15T10:46:04.852Z",
+      "batch": "Winter 2019"
+    },
+    "singularity": {
+      "firstSeen": "2026-07-15T10:46:04.852Z",
+      "batch": "Summer 2023"
+    },
+    "breez-labs": {
+      "firstSeen": "2026-07-15T10:46:04.852Z",
+      "batch": "Winter 2024"
+    },
+    "brumby": {
+      "firstSeen": "2026-07-15T10:46:04.852Z",
+      "batch": "Winter 2026"
+    },
+    "hardware-intelligence": {
+      "firstSeen": "2026-07-15T10:46:04.852Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-14T10:42:15.924Z"
+  "lastRun": "2026-07-15T10:46:04.852Z"
 }
