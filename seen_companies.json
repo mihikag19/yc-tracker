@@ -25115,7 +25115,23 @@
     "hardware-intelligence": {
       "firstSeen": "2026-07-15T10:46:04.852Z",
       "batch": "Summer 2026"
+    },
+    "here": {
+      "firstSeen": "2026-07-16T10:55:57.357Z",
+      "batch": "Summer 2020"
+    },
+    "capuchin": {
+      "firstSeen": "2026-07-16T10:55:57.357Z",
+      "batch": "Winter 2022"
+    },
+    "devfast": {
+      "firstSeen": "2026-07-16T10:55:57.357Z",
+      "batch": "Winter 2026"
+    },
+    "illume-labs": {
+      "firstSeen": "2026-07-16T10:55:57.357Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-15T10:46:04.852Z"
+  "lastRun": "2026-07-16T10:55:57.357Z"
 }
