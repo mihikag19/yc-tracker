@@ -25131,7 +25131,39 @@
     "illume-labs": {
       "firstSeen": "2026-07-16T10:55:57.357Z",
       "batch": "Summer 2026"
+    },
+    "vortexify": {
+      "firstSeen": "2026-07-17T10:43:34.168Z",
+      "batch": "Fall 2024"
+    },
+    "rapidfolio": {
+      "firstSeen": "2026-07-17T10:43:34.168Z",
+      "batch": "Summer 2026"
+    },
+    "instaplay": {
+      "firstSeen": "2026-07-17T10:43:34.168Z",
+      "batch": "Summer 2026"
+    },
+    "almanac": {
+      "firstSeen": "2026-07-17T10:43:34.168Z",
+      "batch": "Summer 2026"
+    },
+    "aktoria-robotics": {
+      "firstSeen": "2026-07-17T10:43:34.168Z",
+      "batch": "Summer 2026"
+    },
+    "rational": {
+      "firstSeen": "2026-07-17T10:43:34.168Z",
+      "batch": "Summer 2026"
+    },
+    "axelrod": {
+      "firstSeen": "2026-07-17T10:43:34.168Z",
+      "batch": "Summer 2026"
+    },
+    "nex": {
+      "firstSeen": "2026-07-17T10:43:34.168Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-16T10:55:57.357Z"
+  "lastRun": "2026-07-17T10:43:34.168Z"
 }
