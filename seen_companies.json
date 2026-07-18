@@ -25163,7 +25163,35 @@
     "nex": {
       "firstSeen": "2026-07-17T10:43:34.168Z",
       "batch": "Summer 2026"
+    },
+    "figments": {
+      "firstSeen": "2026-07-18T10:15:51.036Z",
+      "batch": "Summer 2019"
+    },
+    "proof-of-human": {
+      "firstSeen": "2026-07-18T10:15:51.036Z",
+      "batch": "Summer 2023"
+    },
+    "donkey": {
+      "firstSeen": "2026-07-18T10:15:51.036Z",
+      "batch": "Summer 2026"
+    },
+    "belvedir": {
+      "firstSeen": "2026-07-18T10:15:51.036Z",
+      "batch": "Summer 2026"
+    },
+    "bizmark": {
+      "firstSeen": "2026-07-18T10:15:51.036Z",
+      "batch": "Summer 2026"
+    },
+    "daqstra": {
+      "firstSeen": "2026-07-18T10:15:51.036Z",
+      "batch": "Summer 2026"
+    },
+    "billow-ai-labs": {
+      "firstSeen": "2026-07-18T10:15:51.036Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-17T10:43:34.168Z"
+  "lastRun": "2026-07-18T10:15:51.036Z"
 }
