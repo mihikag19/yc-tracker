@@ -25191,7 +25191,19 @@
     "billow-ai-labs": {
       "firstSeen": "2026-07-18T10:15:51.036Z",
       "batch": "Summer 2026"
+    },
+    "ed1th": {
+      "firstSeen": "2026-07-19T10:24:20.731Z",
+      "batch": "Spring 2026"
+    },
+    "kebra": {
+      "firstSeen": "2026-07-19T10:24:20.731Z",
+      "batch": "Summer 2026"
+    },
+    "manufacturingintelligence": {
+      "firstSeen": "2026-07-19T10:24:20.731Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-18T10:15:51.036Z"
+  "lastRun": "2026-07-19T10:24:20.731Z"
 }
