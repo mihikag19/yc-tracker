@@ -25211,7 +25211,23 @@
     "vendo": {
       "firstSeen": "2026-07-20T11:41:54.153Z",
       "batch": "Summer 2026"
+    },
+    "olam-labs": {
+      "firstSeen": "2026-07-21T11:05:06.409Z",
+      "batch": "Summer 2026"
+    },
+    "manifold-2": {
+      "firstSeen": "2026-07-21T11:05:06.409Z",
+      "batch": "Summer 2026"
+    },
+    "orvixo": {
+      "firstSeen": "2026-07-21T11:05:06.409Z",
+      "batch": "Summer 2026"
+    },
+    "last-accounting-company": {
+      "firstSeen": "2026-07-21T11:05:06.409Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-20T11:41:54.153Z"
+  "lastRun": "2026-07-21T11:05:06.409Z"
 }
