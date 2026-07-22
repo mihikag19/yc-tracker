@@ -25227,7 +25227,23 @@
     "last-accounting-company": {
       "firstSeen": "2026-07-21T11:05:06.409Z",
       "batch": "Summer 2026"
+    },
+    "anchorhead": {
+      "firstSeen": "2026-07-22T11:06:01.394Z",
+      "batch": "Winter 2026"
+    },
+    "proprio-robotics": {
+      "firstSeen": "2026-07-22T11:06:01.394Z",
+      "batch": "Summer 2026"
+    },
+    "shielded": {
+      "firstSeen": "2026-07-22T11:06:01.394Z",
+      "batch": "Summer 2026"
+    },
+    "computable": {
+      "firstSeen": "2026-07-22T11:06:01.394Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-21T11:05:06.409Z"
+  "lastRun": "2026-07-22T11:06:01.394Z"
 }
