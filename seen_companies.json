@@ -25243,7 +25243,27 @@
     "computable": {
       "firstSeen": "2026-07-22T11:06:01.394Z",
       "batch": "Summer 2026"
+    },
+    "induction-labs": {
+      "firstSeen": "2026-07-23T11:06:23.551Z",
+      "batch": "Summer 2026"
+    },
+    "egoist-machines": {
+      "firstSeen": "2026-07-23T11:06:23.551Z",
+      "batch": "Summer 2026"
+    },
+    "maingen": {
+      "firstSeen": "2026-07-23T11:06:23.551Z",
+      "batch": "Summer 2026"
+    },
+    "gamgee": {
+      "firstSeen": "2026-07-23T11:06:23.551Z",
+      "batch": "Summer 2026"
+    },
+    "palisade-2": {
+      "firstSeen": "2026-07-23T11:06:23.551Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-22T11:06:01.394Z"
+  "lastRun": "2026-07-23T11:06:23.551Z"
 }
