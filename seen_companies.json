@@ -25263,7 +25263,31 @@
     "palisade-2": {
       "firstSeen": "2026-07-23T11:06:23.551Z",
       "batch": "Summer 2026"
+    },
+    "zaplar": {
+      "firstSeen": "2026-07-24T11:02:22.998Z",
+      "batch": "Summer 2026"
+    },
+    "neuron-industries": {
+      "firstSeen": "2026-07-24T11:02:22.998Z",
+      "batch": "Summer 2026"
+    },
+    "derya": {
+      "firstSeen": "2026-07-24T11:02:22.998Z",
+      "batch": "Summer 2026"
+    },
+    "locke": {
+      "firstSeen": "2026-07-24T11:02:22.998Z",
+      "batch": "Summer 2026"
+    },
+    "avoca-systems": {
+      "firstSeen": "2026-07-24T11:02:22.998Z",
+      "batch": "Summer 2026"
+    },
+    "blaise": {
+      "firstSeen": "2026-07-24T11:02:22.998Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-23T11:06:23.551Z"
+  "lastRun": "2026-07-24T11:02:22.998Z"
 }
