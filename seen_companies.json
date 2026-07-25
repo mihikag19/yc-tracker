@@ -25287,7 +25287,23 @@
     "blaise": {
       "firstSeen": "2026-07-24T11:02:22.998Z",
       "batch": "Summer 2026"
+    },
+    "sota2": {
+      "firstSeen": "2026-07-25T10:24:22.591Z",
+      "batch": "Winter 2022"
+    },
+    "waddle-labs": {
+      "firstSeen": "2026-07-25T10:24:22.591Z",
+      "batch": "Summer 2026"
+    },
+    "agency-tool-company": {
+      "firstSeen": "2026-07-25T10:24:22.591Z",
+      "batch": "Summer 2026"
+    },
+    "ronanrx-inc": {
+      "firstSeen": "2026-07-25T10:24:22.591Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-24T11:02:22.998Z"
+  "lastRun": "2026-07-25T10:24:22.591Z"
 }
