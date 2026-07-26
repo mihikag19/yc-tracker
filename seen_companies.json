@@ -25303,7 +25303,27 @@
     "ronanrx-inc": {
       "firstSeen": "2026-07-25T10:24:22.591Z",
       "batch": "Summer 2026"
+    },
+    "tarjimly-acquired": {
+      "firstSeen": "2026-07-26T10:42:08.090Z",
+      "batch": "Winter 2018"
+    },
+    "traceforce": {
+      "firstSeen": "2026-07-26T10:42:08.090Z",
+      "batch": "Summer 2026"
+    },
+    "pokerclubhub": {
+      "firstSeen": "2026-07-26T10:42:08.090Z",
+      "batch": "Summer 2026"
+    },
+    "lumeria": {
+      "firstSeen": "2026-07-26T10:42:08.090Z",
+      "batch": "Summer 2026"
+    },
+    "atomarine": {
+      "firstSeen": "2026-07-26T10:42:08.090Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-25T10:24:22.591Z"
+  "lastRun": "2026-07-26T10:42:08.090Z"
 }
