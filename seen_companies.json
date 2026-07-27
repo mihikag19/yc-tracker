@@ -25323,7 +25323,23 @@
     "atomarine": {
       "firstSeen": "2026-07-26T10:42:08.090Z",
       "batch": "Summer 2026"
+    },
+    "fuse-ai": {
+      "firstSeen": "2026-07-27T12:18:11.939Z",
+      "batch": "Winter 2025"
+    },
+    "collar": {
+      "firstSeen": "2026-07-27T12:18:11.939Z",
+      "batch": "Fall 2026"
+    },
+    "synapse-semiconductor": {
+      "firstSeen": "2026-07-27T12:18:11.939Z",
+      "batch": "Summer 2026"
+    },
+    "graphify-labs": {
+      "firstSeen": "2026-07-27T12:18:11.939Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-26T10:42:08.090Z"
+  "lastRun": "2026-07-27T12:18:11.939Z"
 }
