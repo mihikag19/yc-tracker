@@ -25347,7 +25347,51 @@
     "wondering": {
       "firstSeen": "2026-07-28T11:13:53.422Z",
       "batch": "Summer 2026"
+    },
+    "fluid-markets": {
+      "firstSeen": "2026-07-29T11:22:43.781Z",
+      "batch": "Winter 2023"
+    },
+    "gloglo": {
+      "firstSeen": "2026-07-29T11:22:43.781Z",
+      "batch": "Winter 2024"
+    },
+    "axial": {
+      "firstSeen": "2026-07-29T11:22:43.781Z",
+      "batch": "Fall 2025"
+    },
+    "mirabelle": {
+      "firstSeen": "2026-07-29T11:22:43.781Z",
+      "batch": "Winter 2026"
+    },
+    "applied-electrodynamics-inc": {
+      "firstSeen": "2026-07-29T11:22:43.781Z",
+      "batch": "Summer 2026"
+    },
+    "buildbox": {
+      "firstSeen": "2026-07-29T11:22:43.781Z",
+      "batch": "Summer 2026"
+    },
+    "joinmarble": {
+      "firstSeen": "2026-07-29T11:22:43.781Z",
+      "batch": "Summer 2026"
+    },
+    "decawork": {
+      "firstSeen": "2026-07-29T11:22:43.781Z",
+      "batch": "Summer 2026"
+    },
+    "lamb-labs": {
+      "firstSeen": "2026-07-29T11:22:43.781Z",
+      "batch": "Summer 2026"
+    },
+    "grip": {
+      "firstSeen": "2026-07-29T11:22:43.781Z",
+      "batch": "Summer 2026"
+    },
+    "dock": {
+      "firstSeen": "2026-07-29T11:22:43.781Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-28T11:13:53.422Z"
+  "lastRun": "2026-07-29T11:22:43.781Z"
 }
