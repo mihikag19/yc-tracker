@@ -25391,7 +25391,63 @@
     "dock": {
       "firstSeen": "2026-07-29T11:22:43.781Z",
       "batch": "Summer 2026"
+    },
+    "parameter-fka-hex-security": {
+      "firstSeen": "2026-07-30T11:03:46.475Z",
+      "batch": "Winter 2026"
+    },
+    "atlia": {
+      "firstSeen": "2026-07-30T11:03:46.475Z",
+      "batch": "Summer 2026"
+    },
+    "openvector": {
+      "firstSeen": "2026-07-30T11:03:46.475Z",
+      "batch": "Summer 2026"
+    },
+    "gitcafe": {
+      "firstSeen": "2026-07-30T11:03:46.475Z",
+      "batch": "Summer 2026"
+    },
+    "kara": {
+      "firstSeen": "2026-07-30T11:03:46.475Z",
+      "batch": "Summer 2026"
+    },
+    "ai-coach": {
+      "firstSeen": "2026-07-30T11:03:46.475Z",
+      "batch": "Summer 2026"
+    },
+    "stoa": {
+      "firstSeen": "2026-07-30T11:03:46.475Z",
+      "batch": "Summer 2026"
+    },
+    "stratum-industries": {
+      "firstSeen": "2026-07-30T11:03:46.475Z",
+      "batch": "Summer 2026"
+    },
+    "ekho-labs": {
+      "firstSeen": "2026-07-30T11:03:46.475Z",
+      "batch": "Summer 2026"
+    },
+    "luca-iq": {
+      "firstSeen": "2026-07-30T11:03:46.475Z",
+      "batch": "Summer 2026"
+    },
+    "executor": {
+      "firstSeen": "2026-07-30T11:03:46.475Z",
+      "batch": "Summer 2026"
+    },
+    "hubble-ai": {
+      "firstSeen": "2026-07-30T11:03:46.475Z",
+      "batch": "Summer 2026"
+    },
+    "tracer": {
+      "firstSeen": "2026-07-30T11:03:46.475Z",
+      "batch": "Summer 2026"
+    },
+    "hiloop": {
+      "firstSeen": "2026-07-30T11:03:46.475Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-29T11:22:43.781Z"
+  "lastRun": "2026-07-30T11:03:46.475Z"
 }
