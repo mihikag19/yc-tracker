@@ -25447,7 +25447,19 @@
     "hiloop": {
       "firstSeen": "2026-07-30T11:03:46.475Z",
       "batch": "Summer 2026"
+    },
+    "version-story-compare": {
+      "firstSeen": "2026-07-31T11:26:46.718Z",
+      "batch": "Winter 2021"
+    },
+    "tarebio": {
+      "firstSeen": "2026-07-31T11:26:46.718Z",
+      "batch": "Summer 2026"
+    },
+    "lambda-robotics": {
+      "firstSeen": "2026-07-31T11:26:46.718Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-07-30T11:03:46.475Z"
+  "lastRun": "2026-07-31T11:26:46.718Z"
 }
