@@ -25459,7 +25459,27 @@
     "lambda-robotics": {
       "firstSeen": "2026-07-31T11:26:46.718Z",
       "batch": "Fall 2026"
+    },
+    "instinct-space": {
+      "firstSeen": "2026-08-01T10:37:52.186Z",
+      "batch": "Winter 2025"
+    },
+    "layers": {
+      "firstSeen": "2026-08-01T10:37:52.186Z",
+      "batch": "Fall 2025"
+    },
+    "clicks-health": {
+      "firstSeen": "2026-08-01T10:37:52.186Z",
+      "batch": "Fall 2025"
+    },
+    "amorphic-labs": {
+      "firstSeen": "2026-08-01T10:37:52.186Z",
+      "batch": "Summer 2026"
+    },
+    "tash": {
+      "firstSeen": "2026-08-01T10:37:52.186Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-07-31T11:26:46.718Z"
+  "lastRun": "2026-08-01T10:37:52.186Z"
 }
