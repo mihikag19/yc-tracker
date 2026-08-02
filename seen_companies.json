@@ -25479,7 +25479,15 @@
     "tash": {
       "firstSeen": "2026-08-01T10:37:52.186Z",
       "batch": "Summer 2026"
+    },
+    "trident": {
+      "firstSeen": "2026-08-02T10:37:29.610Z",
+      "batch": "Summer 2026"
+    },
+    "standard-machines": {
+      "firstSeen": "2026-08-02T10:37:29.610Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-08-01T10:37:52.186Z"
+  "lastRun": "2026-08-02T10:37:29.610Z"
 }
