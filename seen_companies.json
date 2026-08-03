@@ -25487,7 +25487,31 @@
     "standard-machines": {
       "firstSeen": "2026-08-02T10:37:29.610Z",
       "batch": "Summer 2026"
+    },
+    "feldy": {
+      "firstSeen": "2026-08-03T12:18:55.839Z",
+      "batch": "Winter 2024"
+    },
+    "khotan": {
+      "firstSeen": "2026-08-03T12:18:55.839Z",
+      "batch": "Winter 2026"
+    },
+    "impact-drones": {
+      "firstSeen": "2026-08-03T12:18:55.839Z",
+      "batch": "Summer 2026"
+    },
+    "carsignal": {
+      "firstSeen": "2026-08-03T12:18:55.839Z",
+      "batch": "Summer 2026"
+    },
+    "spaceflow-technologies-inc": {
+      "firstSeen": "2026-08-03T12:18:55.839Z",
+      "batch": "Summer 2026"
+    },
+    "caution": {
+      "firstSeen": "2026-08-03T12:18:55.839Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-08-02T10:37:29.610Z"
+  "lastRun": "2026-08-03T12:18:55.839Z"
 }
