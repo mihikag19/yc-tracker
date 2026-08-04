@@ -25511,7 +25511,39 @@
     "caution": {
       "firstSeen": "2026-08-03T12:18:55.839Z",
       "batch": "Summer 2026"
+    },
+    "tiriel-ai": {
+      "firstSeen": "2026-08-04T11:20:40.617Z",
+      "batch": "Summer 2021"
+    },
+    "ravion": {
+      "firstSeen": "2026-08-04T11:20:40.617Z",
+      "batch": "Winter 2022"
+    },
+    "energent-ai": {
+      "firstSeen": "2026-08-04T11:20:40.617Z",
+      "batch": "Summer 2023"
+    },
+    "dartboard": {
+      "firstSeen": "2026-08-04T11:20:40.617Z",
+      "batch": "Winter 2025"
+    },
+    "dreach": {
+      "firstSeen": "2026-08-04T11:20:40.617Z",
+      "batch": "Spring 2026"
+    },
+    "rasyn": {
+      "firstSeen": "2026-08-04T11:20:40.617Z",
+      "batch": "Summer 2026"
+    },
+    "omanta": {
+      "firstSeen": "2026-08-04T11:20:40.617Z",
+      "batch": "Summer 2026"
+    },
+    "qokedas": {
+      "firstSeen": "2026-08-04T11:20:40.617Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-08-03T12:18:55.839Z"
+  "lastRun": "2026-08-04T11:20:40.617Z"
 }
