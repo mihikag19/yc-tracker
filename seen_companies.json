@@ -25567,7 +25567,15 @@
     "agent-fm": {
       "firstSeen": "2026-08-05T11:17:27.615Z",
       "batch": "Summer 2026"
+    },
+    "click": {
+      "firstSeen": "2026-08-06T11:20:00.496Z",
+      "batch": "Summer 2026"
+    },
+    "useforward": {
+      "firstSeen": "2026-08-06T11:20:00.496Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-08-05T11:17:27.615Z"
+  "lastRun": "2026-08-06T11:20:00.496Z"
 }
