@@ -25575,7 +25575,43 @@
     "useforward": {
       "firstSeen": "2026-08-06T11:20:00.496Z",
       "batch": "Fall 2026"
+    },
+    "within": {
+      "firstSeen": "2026-08-07T09:58:11.726Z",
+      "batch": "Summer 2018"
+    },
+    "nextera-robotics-didgeai": {
+      "firstSeen": "2026-08-07T09:58:11.726Z",
+      "batch": "Summer 2020"
+    },
+    "afterfive": {
+      "firstSeen": "2026-08-07T09:58:11.726Z",
+      "batch": "Spring 2026"
+    },
+    "solo-labs": {
+      "firstSeen": "2026-08-07T09:58:11.726Z",
+      "batch": "Summer 2026"
+    },
+    "exosat": {
+      "firstSeen": "2026-08-07T09:58:11.726Z",
+      "batch": "Summer 2026"
+    },
+    "neuromorphic": {
+      "firstSeen": "2026-08-07T09:58:11.726Z",
+      "batch": "Summer 2026"
+    },
+    "radley": {
+      "firstSeen": "2026-08-07T09:58:11.726Z",
+      "batch": "Summer 2026"
+    },
+    "chromie": {
+      "firstSeen": "2026-08-07T09:58:11.726Z",
+      "batch": "Summer 2026"
+    },
+    "herdr": {
+      "firstSeen": "2026-08-07T09:58:11.726Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-08-06T11:20:00.496Z"
+  "lastRun": "2026-08-07T09:58:11.726Z"
 }
