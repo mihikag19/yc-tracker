@@ -25611,7 +25611,19 @@
     "herdr": {
       "firstSeen": "2026-08-07T09:58:11.726Z",
       "batch": "Fall 2026"
+    },
+    "audun": {
+      "firstSeen": "2026-08-08T09:33:25.808Z",
+      "batch": "Summer 2026"
+    },
+    "qlo": {
+      "firstSeen": "2026-08-08T09:33:25.808Z",
+      "batch": "Summer 2026"
+    },
+    "hebbian-robotics": {
+      "firstSeen": "2026-08-08T09:33:25.808Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-08-07T09:58:11.726Z"
+  "lastRun": "2026-08-08T09:33:25.808Z"
 }
