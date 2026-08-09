@@ -25623,7 +25623,19 @@
     "hebbian-robotics": {
       "firstSeen": "2026-08-08T09:33:25.808Z",
       "batch": "Summer 2026"
+    },
+    "prodigy-research": {
+      "firstSeen": "2026-08-09T09:35:15.862Z",
+      "batch": "Summer 2026"
+    },
+    "marengo": {
+      "firstSeen": "2026-08-09T09:35:15.862Z",
+      "batch": "Summer 2026"
+    },
+    "dawn-industries": {
+      "firstSeen": "2026-08-09T09:35:15.862Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-08-08T09:33:25.808Z"
+  "lastRun": "2026-08-09T09:35:15.862Z"
 }
