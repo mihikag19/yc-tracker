@@ -25635,7 +25635,31 @@
     "dawn-industries": {
       "firstSeen": "2026-08-09T09:35:15.862Z",
       "batch": "Summer 2026"
+    },
+    "openbenchmarks": {
+      "firstSeen": "2026-08-10T10:13:17.928Z",
+      "batch": "Fall 2024"
+    },
+    "erinys": {
+      "firstSeen": "2026-08-10T10:13:17.928Z",
+      "batch": "Summer 2026"
+    },
+    "enact": {
+      "firstSeen": "2026-08-10T10:13:17.928Z",
+      "batch": "Summer 2026"
+    },
+    "jcode": {
+      "firstSeen": "2026-08-10T10:13:17.928Z",
+      "batch": "Summer 2026"
+    },
+    "mosaic-inc": {
+      "firstSeen": "2026-08-10T10:13:17.928Z",
+      "batch": "Summer 2026"
+    },
+    "pacific": {
+      "firstSeen": "2026-08-10T10:13:17.928Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-08-09T09:35:15.862Z"
+  "lastRun": "2026-08-10T10:13:17.928Z"
 }
