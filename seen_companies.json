@@ -25715,7 +25715,35 @@
     "vorelios": {
       "firstSeen": "2026-08-12T09:58:26.974Z",
       "batch": "Fall 2026"
+    },
+    "relaw": {
+      "firstSeen": "2026-08-13T10:00:11.529Z",
+      "batch": "Fall 2025"
+    },
+    "dipole-labs": {
+      "firstSeen": "2026-08-13T10:00:11.529Z",
+      "batch": "Summer 2026"
+    },
+    "deepreach-inc": {
+      "firstSeen": "2026-08-13T10:00:11.529Z",
+      "batch": "Summer 2026"
+    },
+    "edotenv": {
+      "firstSeen": "2026-08-13T10:00:11.529Z",
+      "batch": "Summer 2026"
+    },
+    "familiar": {
+      "firstSeen": "2026-08-13T10:00:11.529Z",
+      "batch": "Summer 2026"
+    },
+    "shiraz-ai": {
+      "firstSeen": "2026-08-13T10:00:11.529Z",
+      "batch": "Summer 2026"
+    },
+    "tovenai": {
+      "firstSeen": "2026-08-13T10:00:11.529Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-08-12T09:58:26.974Z"
+  "lastRun": "2026-08-13T10:00:11.529Z"
 }
