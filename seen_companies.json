@@ -25743,7 +25743,59 @@
     "tovenai": {
       "firstSeen": "2026-08-13T10:00:11.529Z",
       "batch": "Summer 2026"
+    },
+    "codexa": {
+      "firstSeen": "2026-08-14T09:56:47.364Z",
+      "batch": "Summer 2022"
+    },
+    "evergrove": {
+      "firstSeen": "2026-08-14T09:56:47.364Z",
+      "batch": "Summer 2026"
+    },
+    "meteoric": {
+      "firstSeen": "2026-08-14T09:56:47.364Z",
+      "batch": "Summer 2026"
+    },
+    "dream": {
+      "firstSeen": "2026-08-14T09:56:47.364Z",
+      "batch": "Summer 2026"
+    },
+    "wondertx": {
+      "firstSeen": "2026-08-14T09:56:47.364Z",
+      "batch": "Summer 2026"
+    },
+    "mentlio": {
+      "firstSeen": "2026-08-14T09:56:47.364Z",
+      "batch": "Summer 2026"
+    },
+    "palisade": {
+      "firstSeen": "2026-08-14T09:56:47.364Z",
+      "batch": "Summer 2026"
+    },
+    "mochitv": {
+      "firstSeen": "2026-08-14T09:56:47.364Z",
+      "batch": "Summer 2026"
+    },
+    "veltha": {
+      "firstSeen": "2026-08-14T09:56:47.364Z",
+      "batch": "Summer 2026"
+    },
+    "akon-labs": {
+      "firstSeen": "2026-08-14T09:56:47.364Z",
+      "batch": "Summer 2026"
+    },
+    "pennant": {
+      "firstSeen": "2026-08-14T09:56:47.364Z",
+      "batch": "Summer 2026"
+    },
+    "princeps": {
+      "firstSeen": "2026-08-14T09:56:47.364Z",
+      "batch": "Summer 2026"
+    },
+    "magma": {
+      "firstSeen": "2026-08-14T09:56:47.364Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-08-13T10:00:11.529Z"
+  "lastRun": "2026-08-14T09:56:47.364Z"
 }
