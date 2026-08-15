@@ -25795,7 +25795,43 @@
     "magma": {
       "firstSeen": "2026-08-14T09:56:47.364Z",
       "batch": "Summer 2026"
+    },
+    "nodi-energy": {
+      "firstSeen": "2026-08-15T09:21:32.702Z",
+      "batch": "Spring 2025"
+    },
+    "cactus-compute": {
+      "firstSeen": "2026-08-15T09:21:32.702Z",
+      "batch": "Summer 2025"
+    },
+    "mass-magnetics": {
+      "firstSeen": "2026-08-15T09:21:32.702Z",
+      "batch": "Summer 2026"
+    },
+    "bernard": {
+      "firstSeen": "2026-08-15T09:21:32.702Z",
+      "batch": "Summer 2026"
+    },
+    "lyon": {
+      "firstSeen": "2026-08-15T09:21:32.702Z",
+      "batch": "Summer 2026"
+    },
+    "tarifflo-inc": {
+      "firstSeen": "2026-08-15T09:21:32.702Z",
+      "batch": "Summer 2026"
+    },
+    "waybill": {
+      "firstSeen": "2026-08-15T09:21:32.702Z",
+      "batch": "Summer 2026"
+    },
+    "touchy": {
+      "firstSeen": "2026-08-15T09:21:32.702Z",
+      "batch": "Summer 2026"
+    },
+    "cuebench": {
+      "firstSeen": "2026-08-15T09:21:32.702Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-08-14T09:56:47.364Z"
+  "lastRun": "2026-08-15T09:21:32.702Z"
 }
