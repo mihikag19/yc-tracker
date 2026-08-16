@@ -25831,7 +25831,23 @@
     "cuebench": {
       "firstSeen": "2026-08-15T09:21:32.702Z",
       "batch": "Summer 2026"
+    },
+    "kandor": {
+      "firstSeen": "2026-08-16T09:23:15.626Z",
+      "batch": "Summer 2026"
+    },
+    "standard-medical": {
+      "firstSeen": "2026-08-16T09:23:15.626Z",
+      "batch": "Summer 2026"
+    },
+    "vernius-systems-inc": {
+      "firstSeen": "2026-08-16T09:23:15.626Z",
+      "batch": "Summer 2026"
+    },
+    "lightfield": {
+      "firstSeen": "2026-08-16T09:23:15.626Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-08-15T09:21:32.702Z"
+  "lastRun": "2026-08-16T09:23:15.626Z"
 }
