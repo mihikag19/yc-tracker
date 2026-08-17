@@ -25847,7 +25847,19 @@
     "lightfield": {
       "firstSeen": "2026-08-16T09:23:15.626Z",
       "batch": "Fall 2026"
+    },
+    "aerogen-systems": {
+      "firstSeen": "2026-08-17T09:36:28.663Z",
+      "batch": "Summer 2026"
+    },
+    "veeza-ai": {
+      "firstSeen": "2026-08-17T09:36:28.663Z",
+      "batch": "Fall 2026"
+    },
+    "antimattr": {
+      "firstSeen": "2026-08-17T09:36:28.663Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-08-16T09:23:15.626Z"
+  "lastRun": "2026-08-17T09:36:28.663Z"
 }
