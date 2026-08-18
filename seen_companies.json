@@ -25859,7 +25859,19 @@
     "antimattr": {
       "firstSeen": "2026-08-17T09:36:28.663Z",
       "batch": "Fall 2026"
+    },
+    "glep": {
+      "firstSeen": "2026-08-18T09:28:02.519Z",
+      "batch": "Winter 2022"
+    },
+    "bunting-labs": {
+      "firstSeen": "2026-08-18T09:28:02.519Z",
+      "batch": "Summer 2022"
+    },
+    "multiplier": {
+      "firstSeen": "2026-08-18T09:28:02.519Z",
+      "batch": "Spring 2026"
     }
   },
-  "lastRun": "2026-08-17T09:36:28.663Z"
+  "lastRun": "2026-08-18T09:28:02.519Z"
 }
