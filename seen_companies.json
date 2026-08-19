@@ -25871,7 +25871,47 @@
     "multiplier": {
       "firstSeen": "2026-08-18T09:28:02.519Z",
       "batch": "Spring 2026"
+    },
+    "liquid-compute": {
+      "firstSeen": "2026-08-19T09:29:45.686Z",
+      "batch": "Winter 2025"
+    },
+    "radiusbrowser": {
+      "firstSeen": "2026-08-19T09:29:45.686Z",
+      "batch": "Fall 2025"
+    },
+    "marker": {
+      "firstSeen": "2026-08-19T09:29:45.686Z",
+      "batch": "Summer 2026"
+    },
+    "grocalo": {
+      "firstSeen": "2026-08-19T09:29:45.686Z",
+      "batch": "Summer 2026"
+    },
+    "callbook-ai": {
+      "firstSeen": "2026-08-19T09:29:45.686Z",
+      "batch": "Summer 2026"
+    },
+    "hilstart": {
+      "firstSeen": "2026-08-19T09:29:45.686Z",
+      "batch": "Summer 2026"
+    },
+    "praxis-robotics": {
+      "firstSeen": "2026-08-19T09:29:45.686Z",
+      "batch": "Summer 2026"
+    },
+    "snap-poker": {
+      "firstSeen": "2026-08-19T09:29:45.686Z",
+      "batch": "Summer 2026"
+    },
+    "gini": {
+      "firstSeen": "2026-08-19T09:29:45.686Z",
+      "batch": "Summer 2026"
+    },
+    "lantern-ai": {
+      "firstSeen": "2026-08-19T09:29:45.686Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-08-18T09:28:02.519Z"
+  "lastRun": "2026-08-19T09:29:45.686Z"
 }
