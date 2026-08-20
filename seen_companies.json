@@ -25911,7 +25911,27 @@
     "lantern-ai": {
       "firstSeen": "2026-08-19T09:29:45.686Z",
       "batch": "Fall 2026"
+    },
+    "cmux": {
+      "firstSeen": "2026-08-20T09:30:02.471Z",
+      "batch": "Summer 2024"
+    },
+    "parameter": {
+      "firstSeen": "2026-08-20T09:30:02.471Z",
+      "batch": "Winter 2026"
+    },
+    "studio": {
+      "firstSeen": "2026-08-20T09:30:02.471Z",
+      "batch": "Summer 2026"
+    },
+    "allia-health": {
+      "firstSeen": "2026-08-20T09:30:02.471Z",
+      "batch": "Summer 2026"
+    },
+    "capveon": {
+      "firstSeen": "2026-08-20T09:30:02.471Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-08-19T09:29:45.686Z"
+  "lastRun": "2026-08-20T09:30:02.471Z"
 }
