@@ -25931,7 +25931,19 @@
     "capveon": {
       "firstSeen": "2026-08-20T09:30:02.471Z",
       "batch": "Fall 2026"
+    },
+    "rgi-labs": {
+      "firstSeen": "2026-08-21T09:32:22.287Z",
+      "batch": "Summer 2021"
+    },
+    "conviction": {
+      "firstSeen": "2026-08-21T09:32:22.287Z",
+      "batch": "Summer 2025"
+    },
+    "coarena": {
+      "firstSeen": "2026-08-21T09:32:22.287Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-08-20T09:30:02.471Z"
+  "lastRun": "2026-08-21T09:32:22.287Z"
 }
