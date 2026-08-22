@@ -25943,7 +25943,19 @@
     "coarena": {
       "firstSeen": "2026-08-21T09:32:22.287Z",
       "batch": "Summer 2026"
+    },
+    "ranla": {
+      "firstSeen": "2026-08-22T09:22:43.719Z",
+      "batch": "Winter 2022"
+    },
+    "edgerun": {
+      "firstSeen": "2026-08-22T09:22:43.719Z",
+      "batch": "Summer 2026"
+    },
+    "covera": {
+      "firstSeen": "2026-08-22T09:22:43.719Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-08-21T09:32:22.287Z"
+  "lastRun": "2026-08-22T09:22:43.719Z"
 }
