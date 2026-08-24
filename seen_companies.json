@@ -25959,7 +25959,11 @@
     "spectre-intelligence": {
       "firstSeen": "2026-08-23T09:23:54.641Z",
       "batch": "Summer 2026"
+    },
+    "ethos-space-resources": {
+      "firstSeen": "2026-08-24T09:42:30.366Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-08-23T09:23:54.641Z"
+  "lastRun": "2026-08-24T09:42:30.366Z"
 }
