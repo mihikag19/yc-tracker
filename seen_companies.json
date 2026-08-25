@@ -25963,7 +25963,23 @@
     "ethos-space-resources": {
       "firstSeen": "2026-08-24T09:42:30.366Z",
       "batch": "Summer 2026"
+    },
+    "true3d": {
+      "firstSeen": "2026-08-25T09:31:10.352Z",
+      "batch": "Winter 2021"
+    },
+    "onetriangle": {
+      "firstSeen": "2026-08-25T09:31:10.352Z",
+      "batch": "Summer 2026"
+    },
+    "opentag": {
+      "firstSeen": "2026-08-25T09:31:10.352Z",
+      "batch": "Summer 2026"
+    },
+    "sentient-os": {
+      "firstSeen": "2026-08-25T09:31:10.352Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-08-24T09:42:30.366Z"
+  "lastRun": "2026-08-25T09:31:10.352Z"
 }
