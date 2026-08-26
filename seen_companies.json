@@ -25979,7 +25979,11 @@
     "sentient-os": {
       "firstSeen": "2026-08-25T09:31:10.352Z",
       "batch": "Fall 2026"
+    },
+    "turnstone": {
+      "firstSeen": "2026-08-26T09:36:03.056Z",
+      "batch": "Winter 2026"
     }
   },
-  "lastRun": "2026-08-25T09:31:10.352Z"
+  "lastRun": "2026-08-26T09:36:03.056Z"
 }
