@@ -25983,7 +25983,27 @@
     "turnstone": {
       "firstSeen": "2026-08-26T09:36:03.056Z",
       "batch": "Winter 2026"
+    },
+    "semble": {
+      "firstSeen": "2026-08-27T19:24:25.217Z",
+      "batch": "Fall 2025"
+    },
+    "most-robotic": {
+      "firstSeen": "2026-08-27T19:24:25.217Z",
+      "batch": "Summer 2026"
+    },
+    "talos-us": {
+      "firstSeen": "2026-08-27T19:24:25.217Z",
+      "batch": "Fall 2026"
+    },
+    "quippy": {
+      "firstSeen": "2026-08-27T19:24:25.217Z",
+      "batch": "Fall 2026"
+    },
+    "redoubt-insurance": {
+      "firstSeen": "2026-08-27T19:24:25.217Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-08-26T09:36:03.056Z"
+  "lastRun": "2026-08-27T19:24:25.217Z"
 }
