@@ -26003,7 +26003,15 @@
     "redoubt-insurance": {
       "firstSeen": "2026-08-27T19:24:25.217Z",
       "batch": "Fall 2026"
+    },
+    "quotient-labs": {
+      "firstSeen": "2026-08-29T14:08:23.130Z",
+      "batch": "Winter 2026"
+    },
+    "workers-io": {
+      "firstSeen": "2026-08-29T14:08:23.130Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-08-28T20:40:41.557Z"
+  "lastRun": "2026-08-29T14:08:23.130Z"
 }
