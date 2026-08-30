@@ -26011,7 +26011,15 @@
     "workers-io": {
       "firstSeen": "2026-08-29T14:08:23.130Z",
       "batch": "Fall 2026"
+    },
+    "zazos": {
+      "firstSeen": "2026-08-30T14:15:05.635Z",
+      "batch": "Summer 2021"
+    },
+    "the-subvocal-company": {
+      "firstSeen": "2026-08-30T14:15:05.635Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-08-29T14:08:23.130Z"
+  "lastRun": "2026-08-30T14:15:05.635Z"
 }
