@@ -26023,7 +26023,23 @@
     "nodus": {
       "firstSeen": "2026-08-31T16:40:48.277Z",
       "batch": "Fall 2026"
+    },
+    "frontier-computing": {
+      "firstSeen": "2026-09-01T13:53:49.444Z",
+      "batch": "Summer 2026"
+    },
+    "ascii": {
+      "firstSeen": "2026-09-01T13:53:49.444Z",
+      "batch": "Fall 2026"
+    },
+    "asakana": {
+      "firstSeen": "2026-09-01T13:53:49.444Z",
+      "batch": "Fall 2026"
+    },
+    "maritime": {
+      "firstSeen": "2026-09-01T13:53:49.444Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-08-31T16:40:48.277Z"
+  "lastRun": "2026-09-01T13:53:49.444Z"
 }
