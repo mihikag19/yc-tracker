@@ -26039,7 +26039,23 @@
     "maritime": {
       "firstSeen": "2026-09-01T13:53:49.444Z",
       "batch": "Fall 2026"
+    },
+    "belozfi": {
+      "firstSeen": "2026-09-02T13:12:08.675Z",
+      "batch": "Winter 2022"
+    },
+    "ad-army": {
+      "firstSeen": "2026-09-02T13:12:08.675Z",
+      "batch": "Summer 2022"
+    },
+    "onestop": {
+      "firstSeen": "2026-09-02T13:12:08.675Z",
+      "batch": "Summer 2025"
+    },
+    "orca-aerospace": {
+      "firstSeen": "2026-09-02T13:12:08.675Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-09-01T13:53:49.444Z"
+  "lastRun": "2026-09-02T13:12:08.675Z"
 }
