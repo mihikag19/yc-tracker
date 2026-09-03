@@ -26055,7 +26055,15 @@
     "orca-aerospace": {
       "firstSeen": "2026-09-02T13:12:08.675Z",
       "batch": "Fall 2026"
+    },
+    "kimpton": {
+      "firstSeen": "2026-09-03T13:13:07.133Z",
+      "batch": "Spring 2026"
+    },
+    "nodus-compute": {
+      "firstSeen": "2026-09-03T13:13:07.133Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-09-02T13:12:08.675Z"
+  "lastRun": "2026-09-03T13:13:07.133Z"
 }
