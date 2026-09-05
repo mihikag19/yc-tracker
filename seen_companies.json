@@ -26067,7 +26067,19 @@
     "onepatch": {
       "firstSeen": "2026-09-04T13:07:10.957Z",
       "batch": "Fall 2026"
+    },
+    "heron": {
+      "firstSeen": "2026-09-05T12:20:16.507Z",
+      "batch": "Summer 2020"
+    },
+    "hopper": {
+      "firstSeen": "2026-09-05T12:20:16.507Z",
+      "batch": "Fall 2026"
+    },
+    "sinter-systems": {
+      "firstSeen": "2026-09-05T12:20:16.507Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-09-04T13:07:10.957Z"
+  "lastRun": "2026-09-05T12:20:16.507Z"
 }
