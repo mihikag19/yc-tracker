@@ -26079,7 +26079,15 @@
     "sinter-systems": {
       "firstSeen": "2026-09-05T12:20:16.507Z",
       "batch": "Fall 2026"
+    },
+    "reason-machines": {
+      "firstSeen": "2026-09-06T12:34:57.086Z",
+      "batch": "Spring 2026"
+    },
+    "dreamscale-labs": {
+      "firstSeen": "2026-09-06T12:34:57.086Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-09-05T12:20:16.507Z"
+  "lastRun": "2026-09-06T12:34:57.086Z"
 }
