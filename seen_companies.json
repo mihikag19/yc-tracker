@@ -26091,7 +26091,23 @@
     "orchestra": {
       "firstSeen": "2026-09-07T14:45:03.486Z",
       "batch": "Summer 2026"
+    },
+    "moonshot-computer": {
+      "firstSeen": "2026-09-08T13:17:22.108Z",
+      "batch": "Summer 2026"
+    },
+    "mochi": {
+      "firstSeen": "2026-09-08T13:17:22.108Z",
+      "batch": "Summer 2026"
+    },
+    "halmos-labs": {
+      "firstSeen": "2026-09-08T13:17:22.108Z",
+      "batch": "Fall 2026"
+    },
+    "hesper-ai": {
+      "firstSeen": "2026-09-08T13:17:22.108Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-09-07T14:45:03.486Z"
+  "lastRun": "2026-09-08T13:17:22.108Z"
 }
