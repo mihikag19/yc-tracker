@@ -26107,7 +26107,31 @@
     "hesper-ai": {
       "firstSeen": "2026-09-08T13:17:22.108Z",
       "batch": "Fall 2026"
+    },
+    "aqueduct": {
+      "firstSeen": "2026-09-09T13:21:35.740Z",
+      "batch": "Winter 2023"
+    },
+    "codevisor": {
+      "firstSeen": "2026-09-09T13:21:35.740Z",
+      "batch": "Winter 2025"
+    },
+    "e1o": {
+      "firstSeen": "2026-09-09T13:21:35.740Z",
+      "batch": "Spring 2026"
+    },
+    "elite": {
+      "firstSeen": "2026-09-09T13:21:35.740Z",
+      "batch": "Summer 2026"
+    },
+    "oro-ai": {
+      "firstSeen": "2026-09-09T13:21:35.740Z",
+      "batch": "Fall 2026"
+    },
+    "superradiant": {
+      "firstSeen": "2026-09-09T13:21:35.740Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-09-08T13:17:22.108Z"
+  "lastRun": "2026-09-09T13:21:35.740Z"
 }
