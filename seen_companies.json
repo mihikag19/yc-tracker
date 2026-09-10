@@ -26131,7 +26131,31 @@
     "superradiant": {
       "firstSeen": "2026-09-09T13:21:35.740Z",
       "batch": "Fall 2026"
+    },
+    "serve-ai": {
+      "firstSeen": "2026-09-10T13:17:58.314Z",
+      "batch": "Summer 2024"
+    },
+    "byteask": {
+      "firstSeen": "2026-09-10T13:17:58.314Z",
+      "batch": "Fall 2026"
+    },
+    "shepherd-robotics": {
+      "firstSeen": "2026-09-10T13:17:58.314Z",
+      "batch": "Fall 2026"
+    },
+    "sona8": {
+      "firstSeen": "2026-09-10T13:17:58.314Z",
+      "batch": "Fall 2026"
+    },
+    "frontrunner": {
+      "firstSeen": "2026-09-10T13:17:58.314Z",
+      "batch": "Fall 2026"
+    },
+    "the-agentic-data-co": {
+      "firstSeen": "2026-09-10T13:17:58.314Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-09-09T13:21:35.740Z"
+  "lastRun": "2026-09-10T13:17:58.314Z"
 }
