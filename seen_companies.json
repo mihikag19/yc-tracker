@@ -26155,7 +26155,23 @@
     "the-agentic-data-co": {
       "firstSeen": "2026-09-10T13:17:58.314Z",
       "batch": "Fall 2026"
+    },
+    "finn": {
+      "firstSeen": "2026-09-11T13:12:19.622Z",
+      "batch": "Winter 2023"
+    },
+    "mirrors": {
+      "firstSeen": "2026-09-11T13:12:19.622Z",
+      "batch": "Fall 2026"
+    },
+    "deploy": {
+      "firstSeen": "2026-09-11T13:12:19.622Z",
+      "batch": "Fall 2026"
+    },
+    "deepmark": {
+      "firstSeen": "2026-09-11T13:12:19.622Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-09-10T13:17:58.314Z"
+  "lastRun": "2026-09-11T13:12:19.622Z"
 }
