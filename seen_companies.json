@@ -26171,7 +26171,15 @@
     "deepmark": {
       "firstSeen": "2026-09-11T13:12:19.622Z",
       "batch": "Fall 2026"
+    },
+    "micora": {
+      "firstSeen": "2026-09-12T12:36:14.065Z",
+      "batch": "Fall 2026"
+    },
+    "vyra": {
+      "firstSeen": "2026-09-12T12:36:14.065Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-09-11T13:12:19.622Z"
+  "lastRun": "2026-09-12T12:36:14.065Z"
 }
