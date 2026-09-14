@@ -26187,7 +26187,19 @@
     "tilion": {
       "firstSeen": "2026-09-13T13:37:24.180Z",
       "batch": "Fall 2026"
+    },
+    "sully": {
+      "firstSeen": "2026-09-14T15:37:17.956Z",
+      "batch": "Summer 2021"
+    },
+    "national-finance-olympiad": {
+      "firstSeen": "2026-09-14T15:37:17.956Z",
+      "batch": "Winter 2022"
+    },
+    "dotwave": {
+      "firstSeen": "2026-09-14T15:37:17.956Z",
+      "batch": "Winter 2025"
     }
   },
-  "lastRun": "2026-09-13T13:37:24.180Z"
+  "lastRun": "2026-09-14T15:37:17.956Z"
 }
