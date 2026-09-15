@@ -26199,7 +26199,35 @@
     "dotwave": {
       "firstSeen": "2026-09-14T15:37:17.956Z",
       "batch": "Winter 2025"
+    },
+    "antinuous": {
+      "firstSeen": "2026-09-15T14:08:06.467Z",
+      "batch": "Spring 2026"
+    },
+    "roma": {
+      "firstSeen": "2026-09-15T14:08:06.467Z",
+      "batch": "Fall 2026"
+    },
+    "nebusec": {
+      "firstSeen": "2026-09-15T14:08:06.467Z",
+      "batch": "Summer 2026"
+    },
+    "agent-37": {
+      "firstSeen": "2026-09-15T14:08:06.467Z",
+      "batch": "Fall 2026"
+    },
+    "aviern": {
+      "firstSeen": "2026-09-15T14:08:06.467Z",
+      "batch": "Fall 2026"
+    },
+    "ignition-benefits": {
+      "firstSeen": "2026-09-15T14:08:06.467Z",
+      "batch": "Fall 2026"
+    },
+    "papaya": {
+      "firstSeen": "2026-09-15T14:08:06.467Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-09-14T15:37:17.956Z"
+  "lastRun": "2026-09-15T14:08:06.467Z"
 }
