@@ -26231,7 +26231,51 @@
     "gbrainio": {
       "firstSeen": "2026-09-16T14:00:30.685Z",
       "batch": "Spring 2026"
+    },
+    "snapbite": {
+      "firstSeen": "2026-09-17T14:04:16.818Z",
+      "batch": "Summer 2012"
+    },
+    "teclada": {
+      "firstSeen": "2026-09-17T14:04:16.818Z",
+      "batch": "Winter 2023"
+    },
+    "party": {
+      "firstSeen": "2026-09-17T14:04:16.818Z",
+      "batch": "Summer 2024"
+    },
+    "zettascale-computing": {
+      "firstSeen": "2026-09-17T14:04:16.818Z",
+      "batch": "Summer 2024"
+    },
+    "copycat-ai": {
+      "firstSeen": "2026-09-17T14:04:16.818Z",
+      "batch": "Winter 2025"
+    },
+    "paceline-bio": {
+      "firstSeen": "2026-09-17T14:04:16.818Z",
+      "batch": "Fall 2025"
+    },
+    "hickory-and-company": {
+      "firstSeen": "2026-09-17T14:04:16.818Z",
+      "batch": "Fall 2026"
+    },
+    "boat": {
+      "firstSeen": "2026-09-17T14:04:16.818Z",
+      "batch": "Fall 2026"
+    },
+    "peritai": {
+      "firstSeen": "2026-09-17T14:04:16.818Z",
+      "batch": "Fall 2026"
+    },
+    "memorable": {
+      "firstSeen": "2026-09-17T14:04:16.818Z",
+      "batch": "Summer 2027"
+    },
+    "lark-2": {
+      "firstSeen": "2026-09-17T14:04:16.818Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-09-16T14:00:30.685Z"
+  "lastRun": "2026-09-17T14:04:16.818Z"
 }
