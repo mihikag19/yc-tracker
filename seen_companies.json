@@ -26275,7 +26275,47 @@
     "lark-2": {
       "firstSeen": "2026-09-17T14:04:16.818Z",
       "batch": "Fall 2026"
+    },
+    "dexto": {
+      "firstSeen": "2026-09-18T13:21:34.309Z",
+      "batch": "Winter 2025"
+    },
+    "method": {
+      "firstSeen": "2026-09-18T13:21:34.309Z",
+      "batch": "Spring 2025"
+    },
+    "cashew-labs": {
+      "firstSeen": "2026-09-18T13:21:34.309Z",
+      "batch": "Spring 2025"
+    },
+    "darwin": {
+      "firstSeen": "2026-09-18T13:21:34.309Z",
+      "batch": "Fall 2025"
+    },
+    "nxtcure-labs": {
+      "firstSeen": "2026-09-18T13:21:34.309Z",
+      "batch": "Fall 2026"
+    },
+    "applied-kinetics": {
+      "firstSeen": "2026-09-18T13:21:34.309Z",
+      "batch": "Fall 2026"
+    },
+    "inflection-space-systems": {
+      "firstSeen": "2026-09-18T13:21:34.309Z",
+      "batch": "Fall 2026"
+    },
+    "rivereditor": {
+      "firstSeen": "2026-09-18T13:21:34.309Z",
+      "batch": "Fall 2026"
+    },
+    "oasive": {
+      "firstSeen": "2026-09-18T13:21:34.309Z",
+      "batch": "Fall 2026"
+    },
+    "sintropix": {
+      "firstSeen": "2026-09-18T13:21:34.309Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-09-17T14:04:16.818Z"
+  "lastRun": "2026-09-18T13:21:34.309Z"
 }
