@@ -26315,7 +26315,27 @@
     "sintropix": {
       "firstSeen": "2026-09-18T13:21:34.309Z",
       "batch": "Fall 2026"
+    },
+    "kailash-labs": {
+      "firstSeen": "2026-09-19T12:51:03.286Z",
+      "batch": "Fall 2026"
+    },
+    "agent-relay": {
+      "firstSeen": "2026-09-19T12:51:03.286Z",
+      "batch": "Fall 2026"
+    },
+    "invertix": {
+      "firstSeen": "2026-09-19T12:51:03.286Z",
+      "batch": "Fall 2026"
+    },
+    "streamline-systems": {
+      "firstSeen": "2026-09-19T12:51:03.286Z",
+      "batch": "Fall 2026"
+    },
+    "volaren-inc": {
+      "firstSeen": "2026-09-19T12:51:03.286Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-09-18T13:21:34.309Z"
+  "lastRun": "2026-09-19T12:51:03.286Z"
 }
