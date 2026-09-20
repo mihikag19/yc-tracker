@@ -26335,7 +26335,23 @@
     "volaren-inc": {
       "firstSeen": "2026-09-19T12:51:03.286Z",
       "batch": "Fall 2026"
+    },
+    "faraday": {
+      "firstSeen": "2026-09-20T13:25:39.957Z",
+      "batch": "Fall 2026"
+    },
+    "viraj-aero": {
+      "firstSeen": "2026-09-20T13:25:39.957Z",
+      "batch": "Fall 2026"
+    },
+    "shire-intelligence": {
+      "firstSeen": "2026-09-20T13:25:39.957Z",
+      "batch": "Fall 2026"
+    },
+    "graypass": {
+      "firstSeen": "2026-09-20T13:25:39.957Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-09-19T12:51:03.286Z"
+  "lastRun": "2026-09-20T13:25:39.957Z"
 }
