@@ -26351,7 +26351,11 @@
     "graypass": {
       "firstSeen": "2026-09-20T13:25:39.957Z",
       "batch": "Fall 2026"
+    },
+    "lfcarry": {
+      "firstSeen": "2026-09-21T15:37:31.541Z",
+      "batch": "Winter 2020"
     }
   },
-  "lastRun": "2026-09-20T13:25:39.957Z"
+  "lastRun": "2026-09-21T15:37:31.541Z"
 }
