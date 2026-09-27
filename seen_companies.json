@@ -26463,7 +26463,15 @@
     "openhack": {
       "firstSeen": "2026-09-26T13:35:43.222Z",
       "batch": "Fall 2026"
+    },
+    "patternfast-prior-tailornovacouturme": {
+      "firstSeen": "2026-09-27T14:32:35.948Z",
+      "batch": "Winter 2019"
+    },
+    "pumpgtm": {
+      "firstSeen": "2026-09-27T14:32:35.948Z",
+      "batch": "Spring 2026"
     }
   },
-  "lastRun": "2026-09-26T13:35:43.222Z"
+  "lastRun": "2026-09-27T14:32:35.948Z"
 }
