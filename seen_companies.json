@@ -26471,7 +26471,31 @@
     "pumpgtm": {
       "firstSeen": "2026-09-27T14:32:35.948Z",
       "batch": "Spring 2026"
+    },
+    "overheard": {
+      "firstSeen": "2026-09-29T15:19:42.552Z",
+      "batch": "Winter 2024"
+    },
+    "ufoai": {
+      "firstSeen": "2026-09-29T15:19:42.552Z",
+      "batch": "Fall 2026"
+    },
+    "vexo": {
+      "firstSeen": "2026-09-29T15:19:42.552Z",
+      "batch": "Fall 2026"
+    },
+    "clean": {
+      "firstSeen": "2026-09-29T15:19:42.552Z",
+      "batch": "Fall 2026"
+    },
+    "habu": {
+      "firstSeen": "2026-09-29T15:19:42.552Z",
+      "batch": "Fall 2026"
+    },
+    "boxesdev": {
+      "firstSeen": "2026-09-29T15:19:42.552Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-09-28T17:18:41.507Z"
+  "lastRun": "2026-09-29T15:19:42.552Z"
 }
