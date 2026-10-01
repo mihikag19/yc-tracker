@@ -26527,7 +26527,31 @@
     "ascenix": {
       "firstSeen": "2026-09-30T15:34:59.804Z",
       "batch": "Fall 2026"
+    },
+    "reframe-2": {
+      "firstSeen": "2026-10-01T15:58:28.936Z",
+      "batch": "Winter 2020"
+    },
+    "launchflow": {
+      "firstSeen": "2026-10-01T15:58:28.936Z",
+      "batch": "Winter 2023"
+    },
+    "titanio": {
+      "firstSeen": "2026-10-01T15:58:28.936Z",
+      "batch": "Summer 2024"
+    },
+    "dydema": {
+      "firstSeen": "2026-10-01T15:58:28.936Z",
+      "batch": "Fall 2026"
+    },
+    "useterse": {
+      "firstSeen": "2026-10-01T15:58:28.936Z",
+      "batch": "Fall 2026"
+    },
+    "hundred": {
+      "firstSeen": "2026-10-01T15:58:28.936Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-09-30T15:34:59.804Z"
+  "lastRun": "2026-10-01T15:58:28.936Z"
 }
