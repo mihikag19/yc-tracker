@@ -26559,7 +26559,23 @@
     "tokenless": {
       "firstSeen": "2026-10-02T15:20:07.268Z",
       "batch": "Summer 2026"
+    },
+    "chicory": {
+      "firstSeen": "2026-10-03T14:07:26.161Z",
+      "batch": "Fall 2024"
+    },
+    "petrichor-bio": {
+      "firstSeen": "2026-10-03T14:07:26.161Z",
+      "batch": "Fall 2026"
+    },
+    "rystic": {
+      "firstSeen": "2026-10-03T14:07:26.161Z",
+      "batch": "Fall 2026"
+    },
+    "silica": {
+      "firstSeen": "2026-10-03T14:07:26.161Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-10-02T15:20:07.268Z"
+  "lastRun": "2026-10-03T14:07:26.161Z"
 }
