@@ -26575,7 +26575,15 @@
     "silica": {
       "firstSeen": "2026-10-03T14:07:26.161Z",
       "batch": "Fall 2026"
+    },
+    "thornwick": {
+      "firstSeen": "2026-10-04T14:35:47.618Z",
+      "batch": "Fall 2024"
+    },
+    "linklane": {
+      "firstSeen": "2026-10-04T14:35:47.618Z",
+      "batch": "Winter 2027"
     }
   },
-  "lastRun": "2026-10-03T14:07:26.161Z"
+  "lastRun": "2026-10-04T14:35:47.618Z"
 }
