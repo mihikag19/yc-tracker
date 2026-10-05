@@ -26583,7 +26583,11 @@
     "linklane": {
       "firstSeen": "2026-10-04T14:35:47.618Z",
       "batch": "Winter 2027"
+    },
+    "forerunner": {
+      "firstSeen": "2026-10-05T17:49:39.682Z",
+      "batch": "Fall 2024"
     }
   },
-  "lastRun": "2026-10-04T14:35:47.618Z"
+  "lastRun": "2026-10-05T17:49:39.682Z"
 }
