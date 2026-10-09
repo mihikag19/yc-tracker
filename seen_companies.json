@@ -26647,7 +26647,31 @@
     "uxduck": {
       "firstSeen": "2026-10-08T16:06:11.231Z",
       "batch": "Fall 2026"
+    },
+    "in-the-room": {
+      "firstSeen": "2026-10-09T15:47:54.615Z",
+      "batch": "Winter 2019"
+    },
+    "autoresearch-inc": {
+      "firstSeen": "2026-10-09T15:47:54.615Z",
+      "batch": "Summer 2026"
+    },
+    "stacktrace": {
+      "firstSeen": "2026-10-09T15:47:54.615Z",
+      "batch": "Fall 2026"
+    },
+    "quivly-ai": {
+      "firstSeen": "2026-10-09T15:47:54.615Z",
+      "batch": "Fall 2026"
+    },
+    "lucebox": {
+      "firstSeen": "2026-10-09T15:47:54.615Z",
+      "batch": "Winter 2027"
+    },
+    "composal": {
+      "firstSeen": "2026-10-09T15:47:54.615Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-10-08T16:06:11.231Z"
+  "lastRun": "2026-10-09T15:47:54.615Z"
 }
