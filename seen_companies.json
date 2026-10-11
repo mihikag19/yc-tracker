@@ -26687,7 +26687,15 @@
     "theseus-robotics": {
       "firstSeen": "2026-10-10T15:00:54.378Z",
       "batch": "Fall 2026"
+    },
+    "handymanai": {
+      "firstSeen": "2026-10-11T15:18:50.012Z",
+      "batch": "Winter 2022"
+    },
+    "ratlog": {
+      "firstSeen": "2026-10-11T15:18:50.012Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-10-10T15:00:54.378Z"
+  "lastRun": "2026-10-11T15:18:50.012Z"
 }
