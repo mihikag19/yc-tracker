@@ -26695,7 +26695,19 @@
     "ratlog": {
       "firstSeen": "2026-10-11T15:18:50.012Z",
       "batch": "Fall 2026"
+    },
+    "output-labs": {
+      "firstSeen": "2026-10-12T18:32:58.600Z",
+      "batch": "Summer 2021"
+    },
+    "rodeo-robotics": {
+      "firstSeen": "2026-10-12T18:32:58.600Z",
+      "batch": "Fall 2026"
+    },
+    "chempilotai": {
+      "firstSeen": "2026-10-12T18:32:58.600Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-10-11T15:18:50.012Z"
+  "lastRun": "2026-10-12T18:32:58.600Z"
 }
