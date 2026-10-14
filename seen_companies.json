@@ -26739,7 +26739,35 @@
     "sutrix": {
       "firstSeen": "2026-10-13T16:42:00.341Z",
       "batch": "Fall 2026"
+    },
+    "rome-ai": {
+      "firstSeen": "2026-10-14T14:18:22.611Z",
+      "batch": "Winter 2022"
+    },
+    "accountable": {
+      "firstSeen": "2026-10-14T14:18:22.611Z",
+      "batch": "Summer 2022"
+    },
+    "standard-physics": {
+      "firstSeen": "2026-10-14T14:18:22.611Z",
+      "batch": "Winter 2026"
+    },
+    "gradon": {
+      "firstSeen": "2026-10-14T14:18:22.611Z",
+      "batch": "Fall 2026"
+    },
+    "runtimesi": {
+      "firstSeen": "2026-10-14T14:18:22.611Z",
+      "batch": "Fall 2026"
+    },
+    "caveman": {
+      "firstSeen": "2026-10-14T14:18:22.611Z",
+      "batch": "Fall 2026"
+    },
+    "godpack": {
+      "firstSeen": "2026-10-14T14:18:22.611Z",
+      "batch": "Winter 2027"
     }
   },
-  "lastRun": "2026-10-13T16:42:00.341Z"
+  "lastRun": "2026-10-14T14:18:22.611Z"
 }
