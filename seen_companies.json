@@ -26831,7 +26831,15 @@
     "plyxl": {
       "firstSeen": "2026-10-16T13:43:23.441Z",
       "batch": "Winter 2027"
+    },
+    "camperoo": {
+      "firstSeen": "2026-10-17T12:40:02.971Z",
+      "batch": "Winter 2014"
+    },
+    "aucert": {
+      "firstSeen": "2026-10-17T12:40:02.971Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-10-16T13:43:23.441Z"
+  "lastRun": "2026-10-17T12:40:02.971Z"
 }
