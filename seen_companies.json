@@ -26839,7 +26839,15 @@
     "aucert": {
       "firstSeen": "2026-10-17T12:40:02.971Z",
       "batch": "Fall 2026"
+    },
+    "augment-inc": {
+      "firstSeen": "2026-10-18T12:57:10.717Z",
+      "batch": "Summer 2024"
+    },
+    "snowstone": {
+      "firstSeen": "2026-10-18T12:57:10.717Z",
+      "batch": "Summer 2026"
     }
   },
-  "lastRun": "2026-10-17T12:40:02.971Z"
+  "lastRun": "2026-10-18T12:57:10.717Z"
 }
