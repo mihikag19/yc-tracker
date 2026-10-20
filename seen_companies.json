@@ -26855,7 +26855,27 @@
     "theo": {
       "firstSeen": "2026-10-19T16:09:23.107Z",
       "batch": "Fall 2026"
+    },
+    "aernata": {
+      "firstSeen": "2026-10-20T14:04:04.660Z",
+      "batch": "Spring 2026"
+    },
+    "armorer-labs": {
+      "firstSeen": "2026-10-20T14:04:04.660Z",
+      "batch": "Fall 2026"
+    },
+    "yam": {
+      "firstSeen": "2026-10-20T14:04:04.660Z",
+      "batch": "Fall 2026"
+    },
+    "kairos-health": {
+      "firstSeen": "2026-10-20T14:04:04.660Z",
+      "batch": "Fall 2026"
+    },
+    "super-powers-mobility-spm": {
+      "firstSeen": "2026-10-20T14:04:04.660Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-10-19T16:09:23.107Z"
+  "lastRun": "2026-10-20T14:04:04.660Z"
 }
