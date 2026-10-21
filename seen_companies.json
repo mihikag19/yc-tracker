@@ -26875,7 +26875,59 @@
     "super-powers-mobility-spm": {
       "firstSeen": "2026-10-20T14:04:04.660Z",
       "batch": "Fall 2026"
+    },
+    "wonderly": {
+      "firstSeen": "2026-10-21T14:19:04.067Z",
+      "batch": "Winter 2020"
+    },
+    "westgate": {
+      "firstSeen": "2026-10-21T14:19:04.067Z",
+      "batch": "Summer 2024"
+    },
+    "sava-trust-company": {
+      "firstSeen": "2026-10-21T14:19:04.067Z",
+      "batch": "Fall 2025"
+    },
+    "claimkit": {
+      "firstSeen": "2026-10-21T14:19:04.067Z",
+      "batch": "Fall 2026"
+    },
+    "paper-star": {
+      "firstSeen": "2026-10-21T14:19:04.067Z",
+      "batch": "Spring 2026"
+    },
+    "audora": {
+      "firstSeen": "2026-10-21T14:19:04.067Z",
+      "batch": "Summer 2026"
+    },
+    "orgo": {
+      "firstSeen": "2026-10-21T14:19:04.067Z",
+      "batch": "Fall 2026"
+    },
+    "synara": {
+      "firstSeen": "2026-10-21T14:19:04.067Z",
+      "batch": "Fall 2026"
+    },
+    "odin-robotics": {
+      "firstSeen": "2026-10-21T14:19:04.067Z",
+      "batch": "Fall 2026"
+    },
+    "kiwi": {
+      "firstSeen": "2026-10-21T14:19:04.067Z",
+      "batch": "Fall 2026"
+    },
+    "phone-harness": {
+      "firstSeen": "2026-10-21T14:19:04.067Z",
+      "batch": "Fall 2026"
+    },
+    "wondersearch": {
+      "firstSeen": "2026-10-21T14:19:04.067Z",
+      "batch": "Fall 2026"
+    },
+    "cesara": {
+      "firstSeen": "2026-10-21T14:19:04.067Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-10-20T14:04:04.660Z"
+  "lastRun": "2026-10-21T14:19:04.067Z"
 }
