@@ -26927,7 +26927,23 @@
     "cesara": {
       "firstSeen": "2026-10-21T14:19:04.067Z",
       "batch": "Fall 2026"
+    },
+    "biblo": {
+      "firstSeen": "2026-10-22T14:18:47.758Z",
+      "batch": "Fall 2024"
+    },
+    "baymachines": {
+      "firstSeen": "2026-10-22T14:18:47.758Z",
+      "batch": "Spring 2026"
+    },
+    "horizontal": {
+      "firstSeen": "2026-10-22T14:18:47.758Z",
+      "batch": "Fall 2026"
+    },
+    "spacesheep": {
+      "firstSeen": "2026-10-22T14:18:47.758Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-10-21T14:19:04.067Z"
+  "lastRun": "2026-10-22T14:18:47.758Z"
 }
