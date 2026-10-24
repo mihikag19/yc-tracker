@@ -26979,7 +26979,39 @@
     "verdun": {
       "firstSeen": "2026-10-23T14:02:20.203Z",
       "batch": "Fall 2026"
+    },
+    "monzo-bank": {
+      "firstSeen": "2026-10-24T13:04:00.316Z",
+      "batch": "other"
+    },
+    "convoy": {
+      "firstSeen": "2026-10-24T13:04:00.316Z",
+      "batch": "other"
+    },
+    "liquid-energy": {
+      "firstSeen": "2026-10-24T13:04:00.316Z",
+      "batch": "Fall 2026"
+    },
+    "topos": {
+      "firstSeen": "2026-10-24T13:04:00.316Z",
+      "batch": "Fall 2026"
+    },
+    "openscaffold": {
+      "firstSeen": "2026-10-24T13:04:00.316Z",
+      "batch": "Fall 2026"
+    },
+    "nitroduck": {
+      "firstSeen": "2026-10-24T13:04:00.316Z",
+      "batch": "Fall 2026"
+    },
+    "epsilab-com": {
+      "firstSeen": "2026-10-24T13:04:00.316Z",
+      "batch": "Fall 2026"
+    },
+    "stasis": {
+      "firstSeen": "2026-10-24T13:04:00.316Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-10-23T14:02:20.203Z"
+  "lastRun": "2026-10-24T13:04:00.316Z"
 }
