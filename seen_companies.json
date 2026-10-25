@@ -27011,7 +27011,19 @@
     "stasis": {
       "firstSeen": "2026-10-24T13:04:00.316Z",
       "batch": "Fall 2026"
+    },
+    "agi-deploy-co": {
+      "firstSeen": "2026-10-25T13:32:28.317Z",
+      "batch": "Spring 2026"
+    },
+    "vouchwealth": {
+      "firstSeen": "2026-10-25T13:32:28.317Z",
+      "batch": "Fall 2026"
+    },
+    "canos": {
+      "firstSeen": "2026-10-25T13:32:28.317Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-10-24T13:04:00.316Z"
+  "lastRun": "2026-10-25T13:32:28.317Z"
 }
