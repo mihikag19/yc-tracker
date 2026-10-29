@@ -27091,7 +27091,27 @@
     "aikido-technologies": {
       "firstSeen": "2026-10-28T15:42:11.774Z",
       "batch": "Fall 2026"
+    },
+    "dynamite": {
+      "firstSeen": "2026-10-29T15:49:14.462Z",
+      "batch": "Winter 2024"
+    },
+    "hillstar": {
+      "firstSeen": "2026-10-29T15:49:14.462Z",
+      "batch": "Fall 2026"
+    },
+    "the-letter-company": {
+      "firstSeen": "2026-10-29T15:49:14.462Z",
+      "batch": "Fall 2026"
+    },
+    "cardinal-square": {
+      "firstSeen": "2026-10-29T15:49:14.462Z",
+      "batch": "Fall 2026"
+    },
+    "routerplus": {
+      "firstSeen": "2026-10-29T15:49:14.462Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-10-28T15:42:11.774Z"
+  "lastRun": "2026-10-29T15:49:14.462Z"
 }
