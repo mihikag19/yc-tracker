@@ -27111,7 +27111,43 @@
     "routerplus": {
       "firstSeen": "2026-10-29T15:49:14.462Z",
       "batch": "Fall 2026"
+    },
+    "general-aviation-company": {
+      "firstSeen": "2026-10-30T15:29:59.704Z",
+      "batch": "Spring 2026"
+    },
+    "ernd": {
+      "firstSeen": "2026-10-30T15:29:59.704Z",
+      "batch": "Fall 2026"
+    },
+    "perceptual-labs": {
+      "firstSeen": "2026-10-30T15:29:59.704Z",
+      "batch": "Fall 2026"
+    },
+    "ravenphone": {
+      "firstSeen": "2026-10-30T15:29:59.704Z",
+      "batch": "Fall 2026"
+    },
+    "fleety": {
+      "firstSeen": "2026-10-30T15:29:59.704Z",
+      "batch": "Fall 2026"
+    },
+    "routant": {
+      "firstSeen": "2026-10-30T15:29:59.704Z",
+      "batch": "Fall 2026"
+    },
+    "volaren": {
+      "firstSeen": "2026-10-30T15:29:59.704Z",
+      "batch": "Fall 2026"
+    },
+    "jinko": {
+      "firstSeen": "2026-10-30T15:29:59.704Z",
+      "batch": "Fall 2026"
+    },
+    "nuum-robotics": {
+      "firstSeen": "2026-10-30T15:29:59.704Z",
+      "batch": "Winter 2027"
     }
   },
-  "lastRun": "2026-10-29T15:49:14.462Z"
+  "lastRun": "2026-10-30T15:29:59.704Z"
 }
