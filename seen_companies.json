@@ -27147,7 +27147,23 @@
     "nuum-robotics": {
       "firstSeen": "2026-10-30T15:29:59.704Z",
       "batch": "Winter 2027"
+    },
+    "instabox": {
+      "firstSeen": "2026-10-31T14:59:10.692Z",
+      "batch": "Spring 2026"
+    },
+    "limnion": {
+      "firstSeen": "2026-10-31T14:59:10.692Z",
+      "batch": "Fall 2026"
+    },
+    "bayworks": {
+      "firstSeen": "2026-10-31T14:59:10.692Z",
+      "batch": "Fall 2026"
+    },
+    "proto": {
+      "firstSeen": "2026-10-31T14:59:10.692Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-10-30T15:29:59.704Z"
+  "lastRun": "2026-10-31T14:59:10.692Z"
 }
