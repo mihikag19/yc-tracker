@@ -27163,7 +27163,19 @@
     "proto": {
       "firstSeen": "2026-10-31T14:59:10.692Z",
       "batch": "Fall 2026"
+    },
+    "corgi": {
+      "firstSeen": "2026-11-01T15:43:17.222Z",
+      "batch": "Summer 2024"
+    },
+    "taanai": {
+      "firstSeen": "2026-11-01T15:43:17.222Z",
+      "batch": "Fall 2026"
+    },
+    "colony": {
+      "firstSeen": "2026-11-01T15:43:17.222Z",
+      "batch": "Winter 2027"
     }
   },
-  "lastRun": "2026-10-31T14:59:10.692Z"
+  "lastRun": "2026-11-01T15:43:17.222Z"
 }
