@@ -27187,7 +27187,19 @@
     "kanopy": {
       "firstSeen": "2026-11-02T19:07:42.077Z",
       "batch": "Fall 2026"
+    },
+    "alrighty": {
+      "firstSeen": "2026-11-03T16:48:19.784Z",
+      "batch": "Summer 2021"
+    },
+    "fours": {
+      "firstSeen": "2026-11-03T16:48:19.784Z",
+      "batch": "Winter 2023"
+    },
+    "efficient-computation-inc": {
+      "firstSeen": "2026-11-03T16:48:19.784Z",
+      "batch": "Fall 2025"
     }
   },
-  "lastRun": "2026-11-02T19:07:42.077Z"
+  "lastRun": "2026-11-03T16:48:19.784Z"
 }
