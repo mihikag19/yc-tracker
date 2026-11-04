@@ -27199,7 +27199,23 @@
     "efficient-computation-inc": {
       "firstSeen": "2026-11-03T16:48:19.784Z",
       "batch": "Fall 2025"
+    },
+    "vespin": {
+      "firstSeen": "2026-11-04T16:48:36.083Z",
+      "batch": "Spring 2026"
+    },
+    "e2e": {
+      "firstSeen": "2026-11-04T16:48:36.083Z",
+      "batch": "Spring 2026"
+    },
+    "evardi": {
+      "firstSeen": "2026-11-04T16:48:36.083Z",
+      "batch": "Fall 2026"
+    },
+    "ailit": {
+      "firstSeen": "2026-11-04T16:48:36.083Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-11-03T16:48:19.784Z"
+  "lastRun": "2026-11-04T16:48:36.083Z"
 }
