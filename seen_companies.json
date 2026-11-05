@@ -27215,7 +27215,31 @@
     "ailit": {
       "firstSeen": "2026-11-04T16:48:36.083Z",
       "batch": "Fall 2026"
+    },
+    "aircaps-ai": {
+      "firstSeen": "2026-11-05T17:03:44.096Z",
+      "batch": "Fall 2025"
+    },
+    "anywhere": {
+      "firstSeen": "2026-11-05T17:03:44.096Z",
+      "batch": "Fall 2026"
+    },
+    "openlake-technologies": {
+      "firstSeen": "2026-11-05T17:03:44.096Z",
+      "batch": "Fall 2026"
+    },
+    "organizely": {
+      "firstSeen": "2026-11-05T17:03:44.096Z",
+      "batch": "Fall 2026"
+    },
+    "axiomat": {
+      "firstSeen": "2026-11-05T17:03:44.096Z",
+      "batch": "Fall 2026"
+    },
+    "trepo": {
+      "firstSeen": "2026-11-05T17:03:44.096Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-11-04T16:48:36.083Z"
+  "lastRun": "2026-11-05T17:03:44.096Z"
 }
