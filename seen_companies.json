@@ -27279,7 +27279,15 @@
     "rezora-io": {
       "firstSeen": "2026-11-07T15:23:12.628Z",
       "batch": "Fall 2026"
+    },
+    "constor": {
+      "firstSeen": "2026-11-08T15:45:25.792Z",
+      "batch": "Fall 2026"
+    },
+    "infraoptimal": {
+      "firstSeen": "2026-11-08T15:45:25.792Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-11-07T15:23:12.628Z"
+  "lastRun": "2026-11-08T15:45:25.792Z"
 }
