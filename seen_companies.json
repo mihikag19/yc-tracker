@@ -27287,7 +27287,23 @@
     "infraoptimal": {
       "firstSeen": "2026-11-08T15:45:25.792Z",
       "batch": "Fall 2026"
+    },
+    "metalcraft": {
+      "firstSeen": "2026-11-09T19:27:45.761Z",
+      "batch": "Fall 2026"
+    },
+    "elithia": {
+      "firstSeen": "2026-11-09T19:27:45.761Z",
+      "batch": "Fall 2026"
+    },
+    "biodelivera": {
+      "firstSeen": "2026-11-09T19:27:45.761Z",
+      "batch": "Fall 2026"
+    },
+    "xulux": {
+      "firstSeen": "2026-11-09T19:27:45.761Z",
+      "batch": "Winter 2027"
     }
   },
-  "lastRun": "2026-11-08T15:45:25.792Z"
+  "lastRun": "2026-11-09T19:27:45.761Z"
 }
