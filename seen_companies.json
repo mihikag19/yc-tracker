@@ -27303,7 +27303,39 @@
     "xulux": {
       "firstSeen": "2026-11-09T19:27:45.761Z",
       "batch": "Winter 2027"
+    },
+    "darwin-robotics": {
+      "firstSeen": "2026-11-10T16:45:36.461Z",
+      "batch": "Fall 2025"
+    },
+    "mendelia": {
+      "firstSeen": "2026-11-10T16:45:36.461Z",
+      "batch": "Winter 2026"
+    },
+    "vorflux": {
+      "firstSeen": "2026-11-10T16:45:36.461Z",
+      "batch": "Fall 2026"
+    },
+    "summer-engine": {
+      "firstSeen": "2026-11-10T16:45:36.461Z",
+      "batch": "Fall 2026"
+    },
+    "se3-labs": {
+      "firstSeen": "2026-11-10T16:45:36.461Z",
+      "batch": "Fall 2026"
+    },
+    "ordo-labs": {
+      "firstSeen": "2026-11-10T16:45:36.461Z",
+      "batch": "Fall 2026"
+    },
+    "hyperbench": {
+      "firstSeen": "2026-11-10T16:45:36.461Z",
+      "batch": "Fall 2026"
+    },
+    "datanode": {
+      "firstSeen": "2026-11-10T16:45:36.461Z",
+      "batch": "Winter 2027"
     }
   },
-  "lastRun": "2026-11-09T19:27:45.761Z"
+  "lastRun": "2026-11-10T16:45:36.461Z"
 }
