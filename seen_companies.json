@@ -27335,7 +27335,35 @@
     "datanode": {
       "firstSeen": "2026-11-10T16:45:36.461Z",
       "batch": "Winter 2027"
+    },
+    "goodshelf": {
+      "firstSeen": "2026-11-11T16:51:35.307Z",
+      "batch": "Winter 2025"
+    },
+    "hub-labs": {
+      "firstSeen": "2026-11-11T16:51:35.307Z",
+      "batch": "Spring 2026"
+    },
+    "wakeshift": {
+      "firstSeen": "2026-11-11T16:51:35.307Z",
+      "batch": "Spring 2026"
+    },
+    "letter-dev": {
+      "firstSeen": "2026-11-11T16:51:35.307Z",
+      "batch": "Fall 2026"
+    },
+    "ample-computer": {
+      "firstSeen": "2026-11-11T16:51:35.307Z",
+      "batch": "Fall 2026"
+    },
+    "plek-ai": {
+      "firstSeen": "2026-11-11T16:51:35.307Z",
+      "batch": "Fall 2026"
+    },
+    "verno": {
+      "firstSeen": "2026-11-11T16:51:35.307Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-11-10T16:45:36.461Z"
+  "lastRun": "2026-11-11T16:51:35.307Z"
 }
