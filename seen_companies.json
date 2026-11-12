@@ -27363,7 +27363,27 @@
     "verno": {
       "firstSeen": "2026-11-11T16:51:35.307Z",
       "batch": "Fall 2026"
+    },
+    "index-law": {
+      "firstSeen": "2026-11-12T17:19:26.036Z",
+      "batch": "Fall 2026"
+    },
+    "nines": {
+      "firstSeen": "2026-11-12T17:19:26.036Z",
+      "batch": "Fall 2026"
+    },
+    "mnemonic-labs": {
+      "firstSeen": "2026-11-12T17:19:26.036Z",
+      "batch": "Fall 2026"
+    },
+    "gatherhq": {
+      "firstSeen": "2026-11-12T17:19:26.036Z",
+      "batch": "Fall 2026"
+    },
+    "vibe-robotics": {
+      "firstSeen": "2026-11-12T17:19:26.036Z",
+      "batch": "Winter 2027"
     }
   },
-  "lastRun": "2026-11-11T16:51:35.307Z"
+  "lastRun": "2026-11-12T17:19:26.036Z"
 }
