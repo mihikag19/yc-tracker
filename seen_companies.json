@@ -27383,7 +27383,31 @@
     "vibe-robotics": {
       "firstSeen": "2026-11-12T17:19:26.036Z",
       "batch": "Winter 2027"
+    },
+    "clickpad": {
+      "firstSeen": "2026-11-13T16:55:15.014Z",
+      "batch": "Winter 2022"
+    },
+    "dukesell": {
+      "firstSeen": "2026-11-13T16:55:15.014Z",
+      "batch": "Winter 2022"
+    },
+    "tago-health": {
+      "firstSeen": "2026-11-13T16:55:15.014Z",
+      "batch": "Spring 2026"
+    },
+    "orikata-bio-pbc": {
+      "firstSeen": "2026-11-13T16:55:15.014Z",
+      "batch": "Summer 2026"
+    },
+    "outworld-labs": {
+      "firstSeen": "2026-11-13T16:55:15.014Z",
+      "batch": "Fall 2026"
+    },
+    "render": {
+      "firstSeen": "2026-11-13T16:55:15.014Z",
+      "batch": "Winter 2027"
     }
   },
-  "lastRun": "2026-11-12T17:19:26.036Z"
+  "lastRun": "2026-11-13T16:55:15.014Z"
 }
