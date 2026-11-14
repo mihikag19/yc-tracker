@@ -27407,7 +27407,23 @@
     "render": {
       "firstSeen": "2026-11-13T16:55:15.014Z",
       "batch": "Winter 2027"
+    },
+    "current": {
+      "firstSeen": "2026-11-14T15:30:54.361Z",
+      "batch": "Spring 2026"
+    },
+    "duet-machines": {
+      "firstSeen": "2026-11-14T15:30:54.361Z",
+      "batch": "Summer 2026"
+    },
+    "repovive": {
+      "firstSeen": "2026-11-14T15:30:54.361Z",
+      "batch": "Fall 2026"
+    },
+    "dualizer": {
+      "firstSeen": "2026-11-14T15:30:54.361Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-11-13T16:55:15.014Z"
+  "lastRun": "2026-11-14T15:30:54.361Z"
 }
