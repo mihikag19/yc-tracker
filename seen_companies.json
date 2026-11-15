@@ -27423,7 +27423,19 @@
     "dualizer": {
       "firstSeen": "2026-11-14T15:30:54.361Z",
       "batch": "Fall 2026"
+    },
+    "standard-gaussian": {
+      "firstSeen": "2026-11-15T16:02:41.961Z",
+      "batch": "Spring 2026"
+    },
+    "agi-deployment-company": {
+      "firstSeen": "2026-11-15T16:02:41.961Z",
+      "batch": "Spring 2026"
+    },
+    "biomes": {
+      "firstSeen": "2026-11-15T16:02:41.961Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-11-14T15:30:54.361Z"
+  "lastRun": "2026-11-15T16:02:41.961Z"
 }
