@@ -27435,7 +27435,19 @@
     "biomes": {
       "firstSeen": "2026-11-15T16:02:41.961Z",
       "batch": "Fall 2026"
+    },
+    "central-blue": {
+      "firstSeen": "2026-11-16T19:14:05.398Z",
+      "batch": "Fall 2026"
+    },
+    "contourholdings": {
+      "firstSeen": "2026-11-16T19:14:05.398Z",
+      "batch": "Fall 2026"
+    },
+    "asterline": {
+      "firstSeen": "2026-11-16T19:14:05.398Z",
+      "batch": "Winter 2027"
     }
   },
-  "lastRun": "2026-11-15T16:02:41.961Z"
+  "lastRun": "2026-11-16T19:14:05.398Z"
 }
