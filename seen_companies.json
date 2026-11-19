@@ -27467,7 +27467,23 @@
     "flashdrive": {
       "firstSeen": "2026-11-18T17:45:24.798Z",
       "batch": "Fall 2026"
+    },
+    "evie": {
+      "firstSeen": "2026-11-19T17:56:32.685Z",
+      "batch": "Fall 2025"
+    },
+    "avout": {
+      "firstSeen": "2026-11-19T17:56:32.685Z",
+      "batch": "Fall 2026"
+    },
+    "luminary": {
+      "firstSeen": "2026-11-19T17:56:32.685Z",
+      "batch": "Winter 2027"
+    },
+    "hiro-industries": {
+      "firstSeen": "2026-11-19T17:56:32.685Z",
+      "batch": "Winter 2027"
     }
   },
-  "lastRun": "2026-11-18T17:45:24.798Z"
+  "lastRun": "2026-11-19T17:56:32.685Z"
 }
