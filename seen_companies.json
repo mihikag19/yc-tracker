@@ -27483,7 +27483,27 @@
     "hiro-industries": {
       "firstSeen": "2026-11-19T17:56:32.685Z",
       "batch": "Winter 2027"
+    },
+    "traceroot": {
+      "firstSeen": "2026-11-20T17:30:35.434Z",
+      "batch": "Summer 2025"
+    },
+    "fluxcap": {
+      "firstSeen": "2026-11-20T17:30:35.434Z",
+      "batch": "Spring 2026"
+    },
+    "foreshadow-industries": {
+      "firstSeen": "2026-11-20T17:30:35.434Z",
+      "batch": "Fall 2026"
+    },
+    "mantle-machines": {
+      "firstSeen": "2026-11-20T17:30:35.434Z",
+      "batch": "Fall 2026"
+    },
+    "rook-space": {
+      "firstSeen": "2026-11-20T17:30:35.434Z",
+      "batch": "Winter 2027"
     }
   },
-  "lastRun": "2026-11-19T17:56:32.685Z"
+  "lastRun": "2026-11-20T17:30:35.434Z"
 }
