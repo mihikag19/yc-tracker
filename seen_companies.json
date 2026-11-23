@@ -27503,7 +27503,23 @@
     "rook-space": {
       "firstSeen": "2026-11-20T17:30:35.434Z",
       "batch": "Winter 2027"
+    },
+    "digibuild-resilience": {
+      "firstSeen": "2026-11-23T20:50:34.267Z",
+      "batch": "Summer 2021"
+    },
+    "10x-dental": {
+      "firstSeen": "2026-11-23T20:50:34.267Z",
+      "batch": "Winter 2025"
+    },
+    "runtime-si": {
+      "firstSeen": "2026-11-23T20:50:34.267Z",
+      "batch": "Fall 2026"
+    },
+    "opsis": {
+      "firstSeen": "2026-11-23T20:50:34.267Z",
+      "batch": "Winter 2027"
     }
   },
-  "lastRun": "2026-11-22T16:52:11.836Z"
+  "lastRun": "2026-11-23T20:50:34.267Z"
 }
