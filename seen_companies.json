@@ -27519,7 +27519,15 @@
     "opsis": {
       "firstSeen": "2026-11-23T20:50:34.267Z",
       "batch": "Winter 2027"
+    },
+    "agentjam": {
+      "firstSeen": "2026-11-24T19:54:41.593Z",
+      "batch": "Winter 2025"
+    },
+    "spita-labs": {
+      "firstSeen": "2026-11-24T19:54:41.593Z",
+      "batch": "Winter 2027"
     }
   },
-  "lastRun": "2026-11-23T20:50:34.267Z"
+  "lastRun": "2026-11-24T19:54:41.593Z"
 }
