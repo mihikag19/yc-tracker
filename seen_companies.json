@@ -27527,7 +27527,11 @@
     "spita-labs": {
       "firstSeen": "2026-11-24T19:54:41.593Z",
       "batch": "Winter 2027"
+    },
+    "elbic": {
+      "firstSeen": "2026-11-25T18:57:32.364Z",
+      "batch": "Spring 2026"
     }
   },
-  "lastRun": "2026-11-24T19:54:41.593Z"
+  "lastRun": "2026-11-25T18:57:32.364Z"
 }
