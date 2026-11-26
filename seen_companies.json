@@ -27531,7 +27531,11 @@
     "elbic": {
       "firstSeen": "2026-11-25T18:57:32.364Z",
       "batch": "Spring 2026"
+    },
+    "ergodex-ai": {
+      "firstSeen": "2026-11-26T18:47:59.267Z",
+      "batch": "Fall 2026"
     }
   },
-  "lastRun": "2026-11-25T18:57:32.364Z"
+  "lastRun": "2026-11-26T18:47:59.267Z"
 }
